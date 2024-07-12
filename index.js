@@ -5,12 +5,12 @@ const jsonServer = require('json-server');
 const path = require('path');
 
 const app = express();
-const router = jsonServer.router(path.join(__dirname, 'db.json'));
+const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
 const options = {
   key: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/privkey.pem'),
-  cert: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/fullchain.pem')
+  cert: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/fullchain.pem'),
 };
 
 app.use((req, res, next) => {
