@@ -1,10 +1,12 @@
 const express = require('express');
+const cors = require('cors');
 const https = require('https');
 const fs = require('fs');
 const jsonServer = require('json-server');
 const path = require('path');
 
 const app = express();
+app.use(cors());
 const port = 5000;
 const dbPath = path.join(__dirname, 'db.json');
 console.log(`Using database file: ${dbPath}`);
