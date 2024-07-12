@@ -4,6 +4,7 @@ const https = require('https');
 const fs = require('fs');
 const jsonServer = require('json-server');
 const path = require('path');
+const chokidar = require('chokidar');  
 
 const app = express();
 app.use(cors());
@@ -21,27 +22,21 @@ const options = {
   cert: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/fullchain.pem'),
 };
 
-app.use('/api', (req, res, next) => {
-  jsonServer.router(dbPath)(req, res, next);
-});
+const router = jsonServer.router(dbPath);
+const middlewares = jsonServer.defaults();
 
-app.use(jsonServer.defaults());
+app.use(middlewares);
+app.use('/api', router);
 
-const spawn = require('child_process').spawn;
-const watch = spawn('npx', ['json-server', '--watch', dbPath, '--port', port]);
+const server = https.createServer(options, app);
 
-watch.stdout.on('data', (data) => {
-  console.log(`stdout: ${data}`);
-});
-
-watch.stderr.on('data', (data) => {
-  console.error(`stderr: ${data}`);
-});
-
-watch.on('close', (code) => {
-  console.log(`child process exited with code ${code}`);
-});
-
-https.createServer(options, app).listen(port, () => {
+server.listen(port, () => {
   console.log(`JSON Server is running on https://sytnikov.site:${port}/api`);
+});
+
+const watcher = chokidar.watch(dbPath);
+
+watcher.on('change', () => {
+  console.log('db.json has been updated.');
+  router.db = router.router(dbPath).db;
 });
