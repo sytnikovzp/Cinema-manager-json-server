@@ -9,8 +9,8 @@ const router = jsonServer.router(path.join(__dirname, 'db.json'));
 const middlewares = jsonServer.defaults();
 
 const options = {
-  key: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/privkey.pem'),
-  cert: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/fullchain.pem'),
+  key: fs.readFileSync(path.join(__dirname, 'privkey.pem')),
+  cert: fs.readFileSync(path.join(__dirname, 'fullchain.pem')),
 };
 
 app.use((req, res, next) => {
