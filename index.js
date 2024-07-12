@@ -4,6 +4,7 @@ const fs = require('fs');
 const jsonServer = require('json-server');
 const path = require('path');
 const chokidar = require('chokidar');
+const cors = require('cors');
 
 const app = express();
 const port = 5000;
@@ -16,8 +17,10 @@ if (!fs.existsSync(dbPath)) {
 
 const options = {
   key: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/privkey.pem'),
-  cert: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/fullchain.pem')
+  cert: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/fullchain.pem'),
 };
+
+app.use(cors());
 
 app.use((req, res, next) => {
   if (req.url.startsWith('/api/')) {
