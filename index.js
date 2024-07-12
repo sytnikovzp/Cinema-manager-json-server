@@ -5,12 +5,20 @@ const jsonServer = require('json-server');
 const path = require('path');
 
 const app = express();
-
 const dbPath = path.join(__dirname, 'db.json');
 console.log(`Using database file: ${dbPath}`);
 
 if (!fs.existsSync(dbPath)) {
   console.error('Database file not found:', dbPath);
+  process.exit(1);
+}
+
+let jsonData;
+try {
+  jsonData = JSON.parse(fs.readFileSync(dbPath, 'utf-8'));
+  console.log('JSON data:', JSON.stringify(jsonData, null, 2));
+} catch (err) {
+  console.error('Error parsing JSON:', err);
   process.exit(1);
 }
 
