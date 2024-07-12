@@ -5,7 +5,16 @@ const jsonServer = require('json-server');
 const path = require('path');
 
 const app = express();
-const router = jsonServer.router('./db.json');
+
+const dbPath = path.join(__dirname, 'db.json');
+console.log(`Using database file: ${dbPath}`);
+
+if (!fs.existsSync(dbPath)) {
+  console.error('Database file not found:', dbPath);
+  process.exit(1);
+}
+
+const router = jsonServer.router(dbPath);
 const middlewares = jsonServer.defaults();
 
 const options = {
