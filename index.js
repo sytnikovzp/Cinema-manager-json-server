@@ -9,19 +9,20 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
 const options = {
-  key: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/privkey.pem'),
-  cert: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/fullchain.pem'),
+  // key: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/privkey.pem'),
+  // cert: fs.readFileSync('/etc/letsencrypt/live/sytnikov.site/fullchain.pem'),
 };
 
-app.use((req, res, next) => {
-  if (req.url.startsWith('/api/')) {
-    req.url = req.url.replace('/api', '');
-  }
-  next();
-});
+// app.use((req, res, next) => {
+//   if (req.url.startsWith('/api/')) {
+//     req.url = req.url.replace('/api', '');
+//   }
+//   next();
+// });
 
 app.use(middlewares);
-app.use('/api', router);
+// app.use('/api', router);
+app.use(router);
 
 const port = 5000;
 
