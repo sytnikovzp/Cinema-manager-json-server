@@ -39,6 +39,10 @@ watcher.on('change', () => {
   router.db.setState(newData);
 });
 
+app.use((req, res, next) => {
+  res.redirect('/');
+});
+
 https.createServer(options, app).listen(port, () => {
   console.log(`JSON Server is running on https://sytnikov.site:${port}`);
 });
