@@ -8,7 +8,6 @@ const cors = require('cors');
 
 const app = express();
 const port = 5000;
-const host = process.env.HOST || 'localhost';
 const dbPath = path.join(__dirname, 'db.json');
 
 if (!fs.existsSync(dbPath)) {
@@ -68,6 +67,6 @@ app.use((req, res, next) => {
   res.redirect('/');
 });
 
-https.createServer(options, app).listen(port, host, () => {
-  console.log(`JSON Server is running on https://${host}:${port}`);
+https.createServer(options, app).listen(port, () => {
+  console.log(`JSON Server is running on https://sytnikov.site:${port}`);
 });
