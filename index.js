@@ -8,6 +8,7 @@ const cors = require('cors');
 
 const app = express();
 const port = 5000;
+const host = process.env.HOST || 'sytnikov.site';
 const dbPath = path.join(__dirname, 'db.json');
 
 if (!fs.existsSync(dbPath)) {
@@ -29,10 +30,31 @@ app.use((req, res, next) => {
   next();
 });
 
+const reverseOrderMiddleware = (req, res, next) => {
+  const originalSend = res.send.bind(res);
+
+  res.send = (body) => {
+    if (body && typeof body === 'string') {
+      const data = JSON.parse(body);
+
+      if (Array.isArray(data)) {
+        data.reverse();
+      }
+
+      originalSend(JSON.stringify(data));
+    } else {
+      originalSend(body);
+    }
+  };
+
+  next();
+};
+
 const router = jsonServer.router(dbPath);
 const middlewares = jsonServer.defaults();
 
 app.use(middlewares);
+app.use(reverseOrderMiddleware);
 app.use(router);
 
 const watcher = chokidar.watch(dbPath);
@@ -46,6 +68,6 @@ app.use((req, res, next) => {
   res.redirect('/');
 });
 
-https.createServer(options, app).listen(port, () => {
-  console.log(`JSON Server is running on https://sytnikov.site:${port}`);
+https.createServer(options, app).listen(port, host, () => {
+  console.log(`JSON Server is running on https://${host}:${port}`);
 });
