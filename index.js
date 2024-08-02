@@ -8,7 +8,7 @@ const cors = require('cors');
 
 const app = express();
 const port = 5000;
-const host = process.env.HOST || 'sytnikov.site';
+const host = process.env.HOST || 'localhost';
 const dbPath = path.join(__dirname, 'db.json');
 
 if (!fs.existsSync(dbPath)) {
