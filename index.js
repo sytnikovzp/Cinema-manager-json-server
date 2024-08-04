@@ -28,21 +28,13 @@ app.use((req, res, next) => {
 });
 
 const reverseOrderMiddleware = (req, res, next) => {
-  const originalSend = res.send.bind(res);
+  if (!req.query._sort) {
+    req.query._sort = 'id';
+  }
 
-  res.send = (body) => {
-    if (body && typeof body === 'string') {
-      const data = JSON.parse(body);
-
-      if (Array.isArray(data)) {
-        data.reverse();
-      }
-
-      originalSend(JSON.stringify(data));
-    } else {
-      originalSend(body);
-    }
-  };
+  if (!req.query._order) {
+    req.query._order = 'desc';
+  }
 
   next();
 };
