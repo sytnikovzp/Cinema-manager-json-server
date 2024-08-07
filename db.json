@@ -2394,10 +2394,7 @@
       "title": "Indiana Jones: Raiders of the Lost Ark",
       "release_year": 1981,
       "genre": "Action",
-      "directors": [
-        "James Mangold",
-        "Steven Spielberg"
-      ],
+      "directors": ["James Mangold", "Steven Spielberg"],
       "actors": [
         "Harrison Ford",
         "Phoebe Waller-Bridge",
@@ -2410,9 +2407,7 @@
         "Paul Freeman",
         "Denholm Elliott"
       ],
-      "studios": [
-        "Paramount Pictures"
-      ],
+      "studios": ["Paramount Pictures"],
       "poster": "https://m.media-amazon.com/images/I/81UOBSDQh0L._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=0xQSIdSRlAk",
       "storyline": "The year is 1936 and the intrepid archaeologist Indiana Jones sets out in search of the fabled Lost Ark of the Covenant, racing a bitter rival and his Nazi cohorts to the prize. Over the course of a hair-raising adventure, Indy endures explosions, spiders, snakes, booby traps, and bad guys in his quest to save the holy relic."
@@ -2422,9 +2417,7 @@
       "title": "Alien",
       "release_year": 1979,
       "genre": "Horror",
-      "directors": [
-        "Ridley Scott"
-      ],
+      "directors": ["Ridley Scott"],
       "actors": [
         "Sigourney Weaver",
         "Tom Skerritt",
@@ -2432,9 +2425,7 @@
         "John Hurt",
         "Ian Holm"
       ],
-      "studios": [
-        "20th Century Studios, Inc."
-      ],
+      "studios": ["20th Century Studios, Inc."],
       "poster": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/c3/Alien_movie_poster.jpg/232px-Alien_movie_poster.jpg",
       "trailer": "https://www.youtube.com/watch?v=4v4Kn0J6E-I",
       "storyline": "Alien, set in the year 2122 CE, tells the story of the deep-space commercial mining ship Nostromo. The ship is on its way back to Earth, carrying a load of extraterrestrial ore, when its crew is awakened from hypersleep, a type of high-tech hibernation, by the ship’s computer, Mother. The ship has intercepted what appears to be a distress signal from an uncharted planetoid, LV-426. Obligated to respond, the crew lands on the planetoid, and several of its members explore the surface. They find a spacecraft with a dead pilot and a cargo of alien eggs. When crew member Kane (John Hurt) inspects an egg that has opened, he is attacked by a face-hugging creature that inserts part of its body down his throat and clings fiercely to his head."
@@ -2444,9 +2435,7 @@
       "title": "Aliens",
       "release_year": 1986,
       "genre": "Action",
-      "directors": [
-        "James Cameron"
-      ],
+      "directors": ["James Cameron"],
       "actors": [
         "Sigourney Weaver",
         "Bill Paxton",
@@ -2455,10 +2444,7 @@
         "Jenette Goldstein",
         "Carrie Henn"
       ],
-      "studios": [
-        "20th Century Studios, Inc.",
-        "Brandywine Productions"
-      ],
+      "studios": ["20th Century Studios, Inc.", "Brandywine Productions"],
       "poster": "https://upload.wikimedia.org/wikipedia/ru/thumb/f/fb/Aliens_poster.jpg/196px-Aliens_poster.jpg",
       "trailer": "https://www.youtube.com/watch?v=QlztL3cYwHs",
       "storyline": "Ellen Ripley has been in stasis for 57 years aboard an escape shuttle after destroying her ship, the Nostromo, to escape an alien creature that slaughtered the rest of the crew. She is rescued and debriefed by her employers at the Weyland-Yutani Corporation, who are skeptical about her claim of alien eggs in a derelict ship on the exomoon LV-426, since it is now the site of a terraforming colony.\n\nAfter contact is lost with the colony, Weyland-Yutani representative Carter Burke and Colonial Marine Lieutenant Gorman ask Ripley to accompany them to investigate. Still traumatized by her alien encounter, she agrees on the condition that they exterminate the creatures. Ripley is introduced to the Colonial Marines on the spaceship Sulaco but is distrustful of their android, Bishop, because the android aboard the Nostromo betrayed its crew to protect the alien on company orders."
@@ -2468,9 +2454,7 @@
       "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
       "release_year": 2003,
       "genre": "Fantasy",
-      "directors": [
-        "Gore Verbinski"
-      ],
+      "directors": ["Gore Verbinski"],
       "actors": [
         "Johnny Depp",
         "Orlando Bloom",
@@ -2478,10 +2462,7 @@
         "Geoffrey Rush",
         "Kevin McNally"
       ],
-      "studios": [
-        "Walt Disney Pictures",
-        "Jerry Bruckheimer Films"
-      ],
+      "studios": ["Walt Disney Pictures", "Jerry Bruckheimer Films"],
       "poster": "https://upload.wikimedia.org/wikipedia/ru/thumb/7/79/Pirates-of-the-Caribbean-The-Curse-of-the-Black-Pearl-.jpg/201px-Pirates-of-the-Caribbean-The-Curse-of-the-Black-Pearl-.jpg",
       "trailer": "https://www.youtube.com/watch?v=gPBaZpDONgg",
       "storyline": "In the 18th century, Governor Weatherby Swann and his daughter, Elizabeth, sail aboard HMS Dauntless. Lieutenant Norrington's crew recovers a shipwrecked survivor, Will Turner. Elizabeth takes a gold medallion from around Will's neck, before seeing a ship with black sails. Eight years later in Port Royal, Jamaica, Norrington is promoted to commodore. While the promotion ceremony is taking place, Captain Jack Sparrow, who initially arrived in Port Royal to \"commandeer\" a ship, runs into two Royal Navy guards, Murtogg and Mullroy, who reveal to Jack that the HMS Interceptor is the fastest ship in the Caribbean.\n\nAfter the ceremony is finished, Commodore Norrington proposes to Elizabeth, before her corset makes her faint and fall into the water below, causing the medallion to emit a pulse. Jack rescues Elizabeth before escaping Commodore Norrington, who identifies Jack with his pirate brand. Will, now a blacksmith, meets Jack and fights long enough for Sparrow to be imprisoned."
@@ -2491,9 +2472,7 @@
       "title": "The Lord of the Rings: The Fellowship of the Ring",
       "release_year": 2001,
       "genre": "Adventure",
-      "directors": [
-        "Peter Jackson"
-      ],
+      "directors": ["Peter Jackson"],
       "actors": [
         "Elijah Wood",
         "Ian McKellen",
@@ -2502,10 +2481,7 @@
         "Ian Holm",
         "Sean Bean"
       ],
-      "studios": [
-        "New Line Cinema",
-        "WingNut Films"
-      ],
+      "studios": ["New Line Cinema", "WingNut Films"],
       "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg",
       "trailer": "https://www.youtube.com/watch?v=_nZdmwHrcnw",
       "storyline": "In the Second Age of Middle-earth, the lords of Elves, Dwarves, and Men are given Rings of Power. Unbeknownst to them, the Dark Lord Sauron forges the One Ring in Mount Doom, instilling into it a great part of his power, to dominate the other Rings and conquer Middle-earth. A final alliance of Men and Elves battles Sauron's forces in Mordor. Isildur of Gondor severs Sauron's finger and the Ring with it, thereby vanquishing Sauron and returning him to spirit form. With Sauron's first defeat, the Third Age of Middle-earth begins. The Ring's influence corrupts Isildur, who takes it for himself and is later killed by Orcs. The Ring is lost in a river for 2,500 years until it is found by Gollum, who owns it for over four and a half centuries. The Ring abandons Gollum and it is subsequently found by a hobbit named Bilbo Baggins, who is unaware of its history."
@@ -2514,9 +2490,7 @@
       "id": 6,
       "title": "Indiana Jones and the Temple of Doom",
       "genre": "Adventure",
-      "directors": [
-        "Steven Spielberg"
-      ],
+      "directors": ["Steven Spielberg"],
       "actors": [
         "Harrison Ford",
         "Kate Capshaw",
@@ -2525,9 +2499,7 @@
         "Philip Stone",
         "Ke Huy Quan"
       ],
-      "studios": [
-        "Paramount Pictures"
-      ],
+      "studios": ["Paramount Pictures"],
       "poster": "https://m.media-amazon.com/images/I/61AbSnzGR+L._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=WBdyLyijZhU",
       "storyline": "In 1935, American archeologist Indiana Jones survives a murder attempt from Shanghai crime boss Lao Che, who hired him to retrieve the remains of Nurhaci. Indy flees from the city in the company of the young orphan Short Round and nightclub singer Willie Scott, unaware that the plane he is traveling on is owned by Che. The plane's pilots dump the fuel and parachute away, but Indy, Willie and Short Round escape using an inflatable raft before the plane crashes. The trio ride down the slopes of the Himalayas and fall into a river before arriving at the Indian village of Mayapore. There, the villagers plead for Indy's aid in retrieving a sacred lingam stone stolen along with the village's children by evil forces from the nearby Pankot Palace. Indy agrees to do so, hypothesizing that the stone is one of the five Sankara stones given by the Hindu gods to help humanity fight evil. Traveling to the palace, the trio are warmly welcomed and allowed to stay for the night as guests, attending a banquet hosted by the palace's young maharaja.",
@@ -2537,17 +2509,9 @@
       "id": 7,
       "title": "Alice in Wonderland",
       "genre": "Fantasy",
-      "directors": [
-        "Tim Burton"
-      ],
-      "actors": [
-        "Johnny Depp",
-        "Mia Wasikowska",
-        "Helena Bonham Carter"
-      ],
-      "studios": [
-        "Walt Disney Pictures"
-      ],
+      "directors": ["Tim Burton"],
+      "actors": ["Johnny Depp", "Mia Wasikowska", "Helena Bonham Carter"],
+      "studios": ["Walt Disney Pictures"],
       "poster": "https://upload.wikimedia.org/wikipedia/en/3/36/Alice_in_Wonderland_%282010_film%29.png",
       "trailer": "https://www.youtube.com/watch?v=9POCgSRVvf0",
       "storyline": "In 1868, 19-year-old Alice Kingsleigh, having mourned the recent loss of her father, is troubled by strange recurring dreams and the stifling expectations of the society in which she lives. After receiving an unwanted marriage proposal from Hamish Ascot at his father's garden party, Alice spots a familiar white rabbit wearing a waistcoat and carrying a pocket watch. She follows it to a rabbit hole and accidentally falls in. She shrinks after drinking from a bottle labeled 'Drink Me' (called a Pishsalver), meaning she cannot reach a key on a table, and then eats a cake labeled 'Eat Me' (called an Upelkuchen), transforming into a giantess. After drinking from the bottle again to fit through a tiny door, she enters the forest of a fantastical place called Underland. There, she is greeted by the White Rabbit, a Dormouse, a Dodo, Talking Flowers, and identical twins Tweedledum and Tweedledee, who all apparently know her.\n\nAlice asserts that she is dreaming, but learns from Absolem the Caterpillar that she is destined to slay the Jabberwocky and end the tyranny of the Red Queen. The group is ambushed by the ravenous Bandersnatch and the Red Queen's knights, led by the Knave of Hearts. All are captured except Alice, who escapes, and the Dormouse, who takes one of the Bandersnatch's eyes. The Knave informs the Red Queen of Alice's return, and is ordered to find her immediately.",
@@ -2557,18 +2521,14 @@
       "id": 8,
       "title": "Pirates of the Caribbean: At World's End",
       "genre": "Fantasy",
-      "directors": [
-        "Gore Verbinski"
-      ],
+      "directors": ["Gore Verbinski"],
       "actors": [
         "Johnny Depp",
         "Keira Knightley",
         "Orlando Bloom",
         "Geoffrey Rush"
       ],
-      "studios": [
-        "Universal Studios"
-      ],
+      "studios": ["Universal Studios"],
       "poster": "https://upload.wikimedia.org/wikipedia/en/5/5a/Pirates_AWE_Poster.jpg",
       "trailer": "https://www.youtube.com/watch?v=kmxWPr8s_Y4",
       "storyline": "Now in control of the oceans, Lord Cutler Beckett executes anyone associated with piracy in Port Royal and orders Davy Jones to destroy all pirate ships. Condemned prisoners sing Hoist the Colours to compel nine Pirate Lords from around the world to convene at Shipwreck Cove to hold the Brethren Court and address the threat Beckett poses. Because Pirate Lord Jack Sparrow never named a successor before being dragged to Davy Jones' Locker, Hector Barbossa, Will Turner, Elizabeth Swann, Tia Dalma, and the surviving crew of the Black Pearl plot to rescue him. In Singapore, the crew meet Pirate Lord Sao Feng, who owns navigational charts to the Locker before they are attacked by the East India Trading Company. During the battle, Will secretly promises to give Jack to Feng in return for the Pearl, intending to use it to rescue his father \"Bootstrap Bill\" Turner from the Flying Dutchman.\n\nThe crew crosses over into the Locker, rescues Jack and recovers the Pearl. While departing, they encounter boats of dead souls, including Elizabeth's father Governor Swann, executed by Beckett. The goddess Calypso charged Davy Jones with guiding the souls of those who died at sea to the next world; every ten years he could come ashore to be with the woman he loved, but after his lover never arrived to meet him, Jones corrupted his purpose and cursed himself to become a monster. Whoever kills Jones by stabbing his disembodied heart must become the Dutchman's captain.",
@@ -2578,9 +2538,7 @@
       "id": 9,
       "title": "The Terminator",
       "genre": "Thriller",
-      "directors": [
-        "James Cameron"
-      ],
+      "directors": ["James Cameron"],
       "actors": [
         "Arnold Schwarzenegger",
         "Michael Biehn",
@@ -2589,10 +2547,7 @@
         "Paul Winfield",
         "Linda Hamilton"
       ],
-      "studios": [
-        "Hemdale Film Corporation",
-        "Pacific Western Productions"
-      ],
+      "studios": ["Hemdale Film Corporation", "Pacific Western Productions"],
       "poster": "https://upload.wikimedia.org/wikipedia/en/7/70/Terminator1984movieposter.jpg",
       "trailer": "https://www.youtube.com/watch?v=k64P4l2Wmeg",
       "storyline": "A cyborg is sent back in time from 2029 to 1984 Los Angeles; an assassin known as a Terminator, disguised as a human male and programmed to hunt and assassinate a woman named Sarah Connor. Separately, a human soldier named Kyle Reese also arrives, intent on stopping it, as they both steal ammunition and clothing. After searching for addresses in a telephone directory, the Terminator systematically kills women that share Sarah's name before tracking the correct Sarah to a nightclub, but she is rescued by Reese. The duo steal a car and escape, with the Terminator pursuing them in a stolen police car.\n\nAs they hide in a parking lot, Reese explains to Sarah that an artificially intelligent defense network known as Skynet, created by Cyberdyne Systems, will become self-aware in the near future and trigger a global nuclear war to bring humankind to its extinction. Sarah's future son, John, will rally the survivors and lead a successful resistance movement against Skynet and its mechanical forces. On the verge of the resistance's victory, Skynet sends the Terminator back in time to eliminate Sarah, thereby preventing John's birth. The Terminator is an efficient and relentless killing machine with a perfect voice-mimicking ability and a durable metal endoskeleton covered by living tissue for it to appear human.\n\nThe police then apprehend Reese and Sarah after another encounter with the Terminator. It then attacks the police station, killing several officers while hunting for Sarah. Reese and Sarah escape, steal another car and take refuge in a motel, where they assemble several pipe bombs and plan their next move. Reese admits that he has adored Sarah since he saw her in a photograph John gave him and that he traveled through time out of love for her. Reciprocating his feelings, Sarah kisses him, and they have sex, conceiving John. The Terminator locates Sarah by intercepting a call intended for her mother. She and Reese escape the motel in a pickup truck while it pursues them on a motorcycle. In the ensuing chase, Reese is badly wounded by gunfire while throwing pipe bombs at the Terminator. Sarah knocks the Terminator off its motorcycle but loses control of the truck, which flips over.",
@@ -2602,16 +2557,9 @@
       "id": 10,
       "title": "Predator",
       "genre": "Science fiction",
-      "directors": [
-        "John McTiernan"
-      ],
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Bill Paxton"
-      ],
-      "studios": [
-        "20th Century Studios, Inc."
-      ],
+      "directors": ["John McTiernan"],
+      "actors": ["Arnold Schwarzenegger", "Bill Paxton"],
+      "studios": ["20th Century Studios, Inc."],
       "poster": "https://i.etsystatic.com/35396601/r/il/0ecb17/4578464483/il_fullxfull.4578464483_83es.jpg",
       "trailer": "https://www.youtube.com/watch?v=_1wDBNHYDv8",
       "storyline": "An alien spacecraft deploys a shuttle to Earth, where Vietnam War veteran Major Alan \"Dutch\" Schaefer and his military rescue team—consisting of Mac, Poncho, Blain, Billy, and Hawkins—are tasked with rescuing a foreign cabinet minister and his aide from communist insurgents in an unspecified South American country. CIA officer Al Dillon, a Vietnam War buddy of Dutch's, is assigned to accompany the team over Dutch's objections. En route, the team discovers the wreckage of a helicopter and three skinned corpses. Dutch identifies them as Green Berets he knew and becomes suspicious of Dillon's intentions. The team reaches the guerrilla camp and witnesses the execution of a hostage. They mount an attack, killing most of the rebels and several Soviet intelligence officers. Dutch confronts Dillon, who reveals their true mission was to stop a planned Soviet-backed invasion and that the CIA sent the Green Berets weeks earlier for the same mission.\n\nThe only surviving guerrilla, Anna, is captured. Learning that more rebels are coming, the team chooses to trek to the extraction point. Unbeknownst to them, they are stalked by an entity employing a cloaking device and thermal imaging technology, but a spooked Billy glimpses it, creating a situation where Anna attempts an escape. Hawkins catches her, but the creature attacks and kills him while sparing Anna.\n\nDutch organizes a search party, but Blain is killed by the creature's plasma cannon. Enraged, Mac provokes everyone to blindly fire their weapons into the jungle, unknowingly wounding the creature. As it administers first aid to itself, the commandos regroup and realize they are being hunted; Dillon believes guerrillas are responsible, but Billy is adamant that their pursuer is not human. They make camp for the night and set traps, which are triggered by a wild boar. In the ensuing confusion, the creature steals Blain's body.",
@@ -2624,9 +2572,7 @@
       "release_year": 2006,
       "poster": "https://m.media-amazon.com/images/I/71leEAIbMNL._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=AoMtvZ-Dvu0",
-      "directors": [
-        "Gore Verbinski"
-      ],
+      "directors": ["Gore Verbinski"],
       "actors": [
         "Johnny Depp",
         "Keira Knightley",
@@ -2634,9 +2580,7 @@
         "Geoffrey Rush",
         "Bill Nighy"
       ],
-      "studios": [
-        "Walt Disney Pictures"
-      ],
+      "studios": ["Walt Disney Pictures"],
       "storyline": "Will Turner and Elizabeth Swann's wedding is interrupted by Lord Cutler Beckett of the East India Trading Company, who arrives at Port Royal with arrest warrants, charging them for aiding Captain Jack Sparrow's escape. Despite also having a warrant, Commodore James Norrington resigned from the Royal Navy and disappeared after losing his ship, HMS Dauntless, in a hurricane while pursuing Jack.\n\nMeanwhile, aboard the Black Pearl, Jack is visited by Will's father, Bootstrap Bill Turner, who is now a crewman of the Flying Dutchman, captained by Davy Jones. He marks Jack with the Black Spot and reminds him that he previously bartered a deal with Jones to raise the Pearl from the depths in exchange for his freedom, a debt Jack failed to repay, and must now serve aboard the Dutchman or he will be dragged into Davy Jones' Locker by the Kraken. Meanwhile, revealing Letters of Marque intended for Jack Sparrow signed by King George, Beckett offers to free Will and Elizabeth in exchange for Will recovering Sparrow's compass.\n\nWill finds Jack and his crew on an island and helps them escape from cannibals. Afterward, Jack visits voodoo priestess Tia Dalma, who helps in finding the Dead Man's Chest, which holds Davy Jones' still-beating heart. Jack intends to find it and free himself from Jones' debt. Will makes a deal with Jack to find the key to the chest in return for Jack's compass but is tricked into servitude with Jones' crew aboard the Dutchman in Jack's stead. Jones agrees to free Sparrow from servitude if he can provide 99 more souls. Will reunites with his father, Bootstrap Bill, aboard the Dutchman and learns that Jones possesses the key through Liar's Dice. Will escapes with the key and climbs aboard the Edinburgh Trader. Jones summons the Kraken and sinks the ship, but Will manages to escape."
     },
     {
@@ -2646,9 +2590,7 @@
       "release_year": 2002,
       "poster": "https://static.posters.cz/image/750/%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D0%B8/lord-of-the-rings-two-towers-one-sheet-i11970.jpg",
       "trailer": "https://www.youtube.com/watch?v=hYcw5ksV8YQ",
-      "directors": [
-        "Peter Jackson"
-      ],
+      "directors": ["Peter Jackson"],
       "actors": [
         "Elijah Wood",
         "Ian McKellen",
@@ -2656,9 +2598,7 @@
         "Sean Astin",
         "Viggo Mortensen"
       ],
-      "studios": [
-        "New Line Cinema"
-      ],
+      "studios": ["New Line Cinema"],
       "storyline": "Awakening from a dream of Gandalf fighting the Balrog in Moria, Frodo Baggins finds himself, along with Samwise Gamgee, lost in the Emyn Muil near Mordor. They discover that they are being tracked by Gollum, a former bearer of the One Ring. Capturing Gollum, Frodo takes pity and allows him to guide them, reminding Sam that they will need Gollum's help to infiltrate Mordor.\n\nAragorn, Legolas, and Gimli pursue a band of Uruk-hai to save their companions Merry and Pippin, entering the kingdom of Rohan. The Uruk-hai are ambushed by a group of Rohirrim, allowing Merry and Pippin to escape into Fangorn Forest. Meeting Aragorn's group, the Rohirrim's leader Éomer explains that he and his men have been exiled by Rohan's king, Théoden, who is under the control of Saruman and his servant Gríma Wormtongue. Éomer believes Merry and Pippin were killed during the raid but leaves the group two horses. In Fangorn, Aragorn's group encounters Gandalf, who after his fight against the Balrog was resurrected as Gandalf the White to help save Middle-earth.\n\nGandalf leads the trio to Rohan's capital, Edoras, where Gandalf frees Théoden from Saruman's control. Aragorn stops Théoden from executing Wormtongue, who flees. Learning of Saruman's plans to destroy Rohan with his Uruk-hai army, Théoden evacuates his citizens to the fortress of the Hornburg at Helm's Deep. Gandalf departs to find Éomer and his followers, hoping they will fight for their restored king. Aragorn befriends Théoden's niece, Éowyn, who becomes infatuated with him. When the refugees travelling to Helm's Deep are attacked by Saruman's Warg-riding Orcs, Aragorn falls from a cliff and is presumed dead. He is found by Théodred's horse Brego and rides to Helm's Deep, witnessing Saruman's army marching toward the fortress."
     },
     {
@@ -2668,9 +2608,7 @@
       "release_year": 2000,
       "poster": "https://static.displate.com/857x1200/displate/2019-03-05/3aec87b7a6fe397484c598bd091f9d7f_836bccaf66e0a4b08935a1d40c8de8a2.jpg",
       "trailer": "https://www.youtube.com/watch?v=P5ieIbInFpg",
-      "directors": [
-        "Ridley Scott"
-      ],
+      "directors": ["Ridley Scott"],
       "actors": [
         "Russell Crowe",
         "Joaquin Phoenix",
@@ -2679,10 +2617,7 @@
         "Derek Jacobi",
         "Djimon Hounsou"
       ],
-      "studios": [
-        "DreamWorks Pictures",
-        "Universal Studios"
-      ],
+      "studios": ["DreamWorks Pictures", "Universal Studios"],
       "storyline": "In 180 AD, Roman general Maximus Decimus Meridius intends to return home after he leads the Roman army to victory against Germanic tribes near Vindobona. Emperor Marcus Aurelius tells Maximus that his own son, Commodus, is unfit to rule and that he wishes Maximus to succeed him, as regent, to restore the Roman Republic. Angered by this decision, Commodus secretly murders his father.\n\nCommodus proclaims himself the new emperor and requests loyalty from Maximus, who refuses. Maximus is arrested by Praetorian Guards led by Quintus, who tells him that he and his family will die. Maximus kills his captors and, wounded, rides for his home near Turgalium, where he finds his wife and son executed. Maximus buries them and collapses from his injuries. He is found by slave traders, who take him to Zuccabar in the Roman province of Mauretania Caesariensis and sell him to gladiator trainer Proximo.\n\nMaximus reluctantly fights in local tournaments, his combat skills helping him win matches and gain popularity. He earns the nickname \"the Spaniard\" and befriends Juba, an African gladiator from Carthage. In Rome, Commodus organizes 150 days of gladiatorial games to commemorate his father and win the approval of the Roman public. Upon hearing this, Proximo reveals to Maximus that he was once a gladiator who was freed by Marcus Aurelius, and advises him to \"win the crowd\" to gain his freedom."
     },
     {
@@ -2692,9 +2627,7 @@
       "release_year": 1995,
       "poster": "https://static.displate.com/857x1200/displate/2020-04-08/efbabfd1f52286165f0e165a3ea37482_6af217f9259c71d711534ce9549eeaf5.jpg",
       "trailer": "https://www.youtube.com/watch?v=1NJO0jxBtMo",
-      "directors": [
-        "Mel Gibson"
-      ],
+      "directors": ["Mel Gibson"],
       "actors": [
         "Mel Gibson",
         "Sophie Marceau",
@@ -2702,11 +2635,7 @@
         "Catherine McCormack",
         "Brendan Gleeson"
       ],
-      "studios": [
-        "Paramount Pictures",
-        "Icon Productions",
-        "The Ladd Company"
-      ],
+      "studios": ["Paramount Pictures", "Icon Productions", "The Ladd Company"],
       "storyline": "In 1280, Edward I of England, known as \"Longshanks\", conquers Scotland following the death of the Scots' king, who left no heir. Young William Wallace witnesses the aftermath of Longshanks' execution of several Scottish nobles, then loses his father and brother when they resist the English. He leaves home to be raised by his uncle, Argyll.\n\nYears later, Longshanks grants his noblemen land and privileges in Scotland, including jus primae noctis, while his son marries French princess Isabelle. Meanwhile, a grown Wallace returns home and secretly marries his childhood friend Murron MacClannough. Wallace rescues Murron from an English soldier, but Murron is subsequently captured and executed. In retribution, Wallace and the locals overthrow the English garrison, beginning a rebellion that soon spreads. Longshanks orders his son to stop Wallace while he campaigns in France. Wallace defeats an army sent by the prince at Stirling, then invades England by sacking York. He also meets Robert the Bruce, a contender for the Scottish crown."
     },
     {
@@ -2716,9 +2645,7 @@
       "release_year": 1972,
       "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
-      "directors": [
-        "Francis Ford Coppola"
-      ],
+      "directors": ["Francis Ford Coppola"],
       "actors": [
         "Marlon Brando",
         "Al Pacino",
@@ -2726,9 +2653,7 @@
         "Robert Duvall",
         "Sterling Hayden"
       ],
-      "studios": [
-        "Paramount Pictures"
-      ],
+      "studios": ["Paramount Pictures"],
       "storyline": "In 1945, the New York City Corleone family don, Vito Corleone, listens to requests during his daughter Connie's wedding to Carlo. Vito's youngest son Michael, a Marine who has thus far stayed out of the family business, introduces his girlfriend, Kay Adams, to his family at the reception. Johnny Fontane, a popular singer and Vito's godson, seeks Vito's help in securing a movie role. Vito sends his consigliere, Tom Hagen, to persuade studio president Jack Woltz to offer Johnny the part. Woltz refuses Hagen's request at first, but soon complies after finding the severed head of his prized stud horse in his bed.\n\nAs Christmas approaches, drug baron Virgil \"The Turk\" Sollozzo asks Vito to invest in his narcotics business and for police protection. Vito declines, citing that involvement in narcotics would alienate his political connections. Suspicious of Sollozzo's partnership with the Tattaglia crime family, Vito sends his enforcer Luca Brasi to the Tattaglias on an espionage mission. Brasi is garroted to death during the initial meeting. Later, enforcers gun down Vito and coerce Hagen into a meeting. With Vito's first-born Sonny now in command, Sollozzo pressures Hagen to persuade Sonny to accept the narcotics deal. Vito survives the shooting and is visited in the hospital by Michael, who finds him unprotected after NYPD officers on Sollozzo's payroll cleared out Vito's guards. Michael thwarts the attempt on his father's life but is beaten by corrupt police captain Mark McCluskey. After the attempted hit at the hospital, Sonny retaliates with a hit on Bruno Tattaglia. Sollozzo and McCluskey request to meet with Michael and settle the dispute. Michael feigns interest and agrees to meet, but hatches a plan with Sonny and Corleone capo Clemenza to kill them and go into hiding. Michael meets Sollozzo and McCluskey at a Bronx restaurant; after retrieving a handgun planted in the bathroom by Clemenza, he shoots both men dead."
     },
     {
@@ -2738,9 +2663,7 @@
       "release_year": 1982,
       "poster": "https://i.ebayimg.com/images/g/rnkAAOSwyvBjOBm0/s-l1200.jpg",
       "trailer": "https://www.youtube.com/watch?v=qYAETtIIClk",
-      "directors": [
-        "Steven Spielberg"
-      ],
+      "directors": ["Steven Spielberg"],
       "actors": [
         "Henry Thomas",
         "Dee Wallace",
@@ -2748,10 +2671,7 @@
         "Peter Coyote",
         "Robert MacNaughton"
       ],
-      "studios": [
-        "Universal Studios",
-        "Amblin Entertainment"
-      ],
+      "studios": ["Universal Studios", "Amblin Entertainment"],
       "storyline": "Aliens secretly visit Earth at night to gather plant specimens in a California forest. One of them separates from the group, fascinated by the distant city lights. U.S. government vehicles arrive and chase the startled creature. The other aliens are forced into a hasty departure, abandoning him on Earth. In a nearby neighborhood in the San Fernando Valley, ten-year-old Elliott Taylor's suspicions are roused when he pitches a baseball into a tool shed, and the ball is rolled back. Later that night, Elliott returns with a flashlight, discovering the creature among the cornstalks. He shrieks and flees the scene.\n\nDespite his family's disbelief, Elliott leaves a trail of candy to lure the alien into his house. Before bed, he realizes the alien is imitating his movements. The next morning, Elliott feigns sickness to stay home from school and play with him. He can \"feel\" the alien's thoughts and emotions, shown when the alien accidentally opens an umbrella, startling him and simultaneously Elliott several rooms away.\n\nLater that day, Elliott introduces his older brother Michael and seven-year-old sister Gertie to the alien, deciding to keep him hidden from their mother, Mary. When the children ask the alien about his origins, he shows them by levitating several balls, representing his planetary system, and demonstrates his powers by reviving dead chrysanthemums. He demonstrates his healing power, through his glowing fingertip, on a minor cut on Elliott's finger."
     },
     {
@@ -2761,9 +2681,7 @@
       "release_year": 2009,
       "poster": "https://m.media-amazon.com/images/I/41kTVLeW1CL._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
-      "directors": [
-        "James Cameron"
-      ],
+      "directors": ["James Cameron"],
       "actors": [
         "Sigourney Weaver",
         "Sam Worthington",
@@ -2771,10 +2689,7 @@
         "Stephen Lang",
         "Michelle Rodriguez"
       ],
-      "studios": [
-        "20th Century Studios, Inc.",
-        "Lightstorm Entertainment"
-      ],
+      "studios": ["20th Century Studios, Inc.", "Lightstorm Entertainment"],
       "storyline": "In 2154, Earth suffers from resource exhaustion and ecological collapse. The Resources Development Administration (RDA) mines the valuable mineral unobtanium on Pandora, a lush habitable moon of Polyphemus, a gas giant in the Alpha Centauri star system. Pandora, whose atmosphere is inhospitable to humans, is inhabited by the Na'vi, 10-foot-tall (3.0 m), blue-skinned, sapient humanoids that live in harmony with nature.\n\nTo explore Pandora, genetically matched human scientists control Na'vi-human hybrids called \"avatars\". Paraplegic former Marine Jake Sully is sent to Pandora to replace his deceased identical twin, who had signed up to be an operator. Avatar Program head Dr. Grace Augustine considers Jake inadequate but accepts him as an operator. While escorting the avatars of Grace and Dr. Norm Spellman, Jake's avatar is attacked by Pandoran wildlife, and he flees into the forest, where he is rescued by the Na'vi princess Neytiri. Suspicious of Jake, she takes him to her clan. Neytiri's mother, Mo'at, the clan's spiritual leader, orders her daughter to initiate Jake into their society.\n\nColonel Miles Quaritch, head of RDA's security force, promises Jake that the company will restore the use of his legs if he provides information about the Na'vi and their gathering place, the giant Hometree, under which is a rich deposit of unobtanium. Learning of this, Grace transfers herself, Jake, and Norm to an outpost. Jake and Neytiri fall in love as Jake is initiated into the tribe, and they choose each other as mates. When Jake attempts to disable a bulldozer threatening a sacred Na'vi site, Administrator Parker Selfridge orders Hometree destroyed."
     },
     {
@@ -2784,9 +2699,7 @@
       "release_year": 1990,
       "poster": "https://i.ebayimg.com/images/g/8EsAAMXQVT9Sse40/s-l1600.jpg",
       "trailer": "https://www.youtube.com/watch?v=TBHIO60whNw",
-      "directors": [
-        "Tim Burton"
-      ],
+      "directors": ["Tim Burton"],
       "actors": [
         "Johnny Depp",
         "Winona Ryder",
@@ -2794,9 +2707,7 @@
         "Anthony Michael Hall",
         "Kathy Baker"
       ],
-      "studios": [
-        "20th Century Studios, Inc."
-      ],
+      "studios": ["20th Century Studios, Inc."],
       "storyline": "One snowy evening, an elderly woman tells her granddaughter the bedtime story of a young man named Edward, who has scissor blades for hands.\n\nMany years earlier, Peg Boggs, a local door-to-door Avon saleswoman, tries to sell at the decrepit Gothic mansion where Edward lives. The creation of an old inventor, Edward is an ageless humanoid. The inventor homeschooled Edward but died from a heart attack before giving Edward hands, leaving him unfinished. Peg finds Edward alone and offers to take him to her home after discovering he is virtually harmless. Peg introduces Edward to her husband Bill, their young son Kevin, and their teenage daughter Kim. Edward falls in love with Kim, despite her initial fear of him. As their neighbors are curious about the new houseguest, the Boggs throw a neighborhood barbecue welcoming him. Most of the neighbors are fascinated by Edward and befriend him, except for the eccentric religious fanatic Esmeralda and Kim's supercilious boyfriend Jim.\n\nEdward repays the neighborhood for their kindness by trimming their hedges into topiaries, progressing to grooming dogs and later styling the hair of the neighborhood women. One of the neighbors, Joyce, offers to help Edward open a hair salon so he can support himself. While scouting a location, Joyce attempts to seduce him, but scares him away. Joyce lies to the neighborhood women about Edward's behavior, reducing their trust in him. Edward's dream of opening the salon is ruined when the bank refuses him a loan on the grounds that he has no assessment and collateral and is not legally a human."
     },
     {
@@ -2806,9 +2717,7 @@
       "release_year": 1988,
       "poster": "https://image.tmdb.org/t/p/original/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
       "trailer": "https://www.youtube.com/watch?v=2TQ-pOvI6Xo",
-      "directors": [
-        "John McTiernan"
-      ],
+      "directors": ["John McTiernan"],
       "actors": [
         "Bruce Willis",
         "Alan Rickman",
@@ -2816,10 +2725,7 @@
         "Reginald VelJohnson",
         "Alexander Godunov"
       ],
-      "studios": [
-        "20th Century Studios, Inc.",
-        "Silver Pictures"
-      ],
+      "studios": ["20th Century Studios, Inc.", "Silver Pictures"],
       "storyline": "On Christmas Eve, New York City Police Department (NYPD) Detective John McClane arrives in Los Angeles, hoping to reconcile with his estranged wife, Holly, at a party held by her employer, the Nakatomi Corporation. He is driven to Nakatomi Plaza by a limo driver, Argyle, who offers to wait for McClane in the garage. While McClane washes himself, the tower is seized by the German radical Hans Gruber and his heavily armed team, including Karl and Theo. Everyone in the tower is taken hostage except for McClane, who slips away, and Argyle, who remains oblivious to events.\n\nGruber is posing as a terrorist to steal the $640 million in untraceable bearer bonds in the building's vault. He kills executive Joseph Takagi after failing to extract the access code from him and tasks Theo with breaking into the vault. The terrorists are alerted to McClane's presence, and one of them, Tony, is sent after him. McClane kills Tony and takes his weapon and radio, which he uses to contact the skeptical Los Angeles Police Department (LAPD). Sergeant Al Powell is sent to investigate. Meanwhile, McClane kills more terrorists and recovers their bag of C-4 and detonators. Realizing Powell is about to leave, having found nothing amiss, McClane drops a terrorist's corpse onto his car. After Powell calls for backup, a SWAT team attempts to storm the building but is counterattacked by the terrorists. McClane throws some C-4 down an elevator shaft, causing an explosion that kills some of the terrorists and ends the counterattack.\n\nHolly's co-worker Harry Ellis attempts to negotiate on Gruber's behalf but is killed by Gruber when McClane refuses to surrender. While checking the explosives on the roof, Gruber encounters McClane and pretends to be an escaped hostage; McClane gives Gruber a gun. Gruber attempts to shoot McClane but finds the weapon is unloaded, and he is saved only by the intervention of other terrorists. McClane escapes but is injured by shattered glass and loses the detonators. Outside, Federal Bureau of Investigation (FBI) agents take control. They order the power to be shut off, which, as Gruber had anticipated, disables the final vault lock so his team can collect the bonds."
     },
     {
@@ -2829,9 +2735,7 @@
       "release_year": 1994,
       "poster": "https://m.media-amazon.com/images/I/51v26fotaOL._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=sCmYN6TLd8A",
-      "directors": [
-        "Neil Patrick Jordan"
-      ],
+      "directors": ["Neil Patrick Jordan"],
       "actors": [
         "Tom Cruise",
         "Brad Pitt",
@@ -2839,10 +2743,7 @@
         "Antonio Banderas",
         "Christian Slater"
       ],
-      "studios": [
-        "Warner Bros.",
-        "Geffen Pictures"
-      ],
+      "studios": ["Warner Bros.", "Geffen Pictures"],
       "storyline": "A vampire named Louis de Pointe du Lac tells his 200-year-long life story to a reporter referred to simply as \"the boy\".\n\nIn 1791, Louis is a young indigo plantation owner living in Louisiana. Distraught by the death of his younger brother Paul, he seeks death in any way possible. Louis is approached by a vampire named Lestat de Lioncourt, who desires Louis's company. Lestat turns Louis into a vampire and the two become immortal companions.\n\nLouis initially perceives Lestat as an extraordinary being, but he undergoes a rapid disillusionment after joining Lestat as a vampire, as he realizes Lestat has no special moral insights and is in fact not much older than Louis himself. Lestat's elderly father moves to the plantation and Louis learns a few details about Lestat's boyhood, including that he was denied an education and that his father once considered him the gentlest of his brothers.\n\nLestat spends time feeding off slaves, thieves, and other plantation families while Louis, who finds it morally repugnant to murder humans to survive, feeds from animals. The enslaved people of the plantation become suspicious of the vampires and Louis and Lestat realize they may face an uprising and cannot remain. Lestat's father attempts to apologize for the abuse he inflicted on Lestat as a child, but Lestat remains bitter and aloof and asks Louis to kill his father for him as they prepare to depart."
     },
     {
@@ -2852,9 +2753,7 @@
       "release_year": 1999,
       "poster": "https://i.ebayimg.com/images/g/~rIAAOSwMJJg5rJL/s-l1600.jpg",
       "trailer": "https://www.youtube.com/watch?v=YxvpPqsPhf8",
-      "directors": [
-        "M. Night Shyamalan"
-      ],
+      "directors": ["M. Night Shyamalan"],
       "actors": [
         "Bruce Willis",
         "Haley Joel Osment",
@@ -2862,10 +2761,7 @@
         "Olivia Williams",
         "Donnie Wahlberg"
       ],
-      "studios": [
-        "Hollywood Pictures",
-        "Spyglass Entertainment"
-      ],
+      "studios": ["Hollywood Pictures", "Spyglass Entertainment"],
       "storyline": "In Philadelphia, child psychologist Malcolm Crowe is at home with wife Anna when Vincent Grey, a former patient Malcolm had treated, breaks into their house. Vincent accuses Malcolm of failing him before shooting Malcolm and then himself.\n\nMonths later, Malcolm has begun working with Cole Sear, a nine-year-old boy who reminds him of Vincent. He feels he must help Cole to rectify his failure to help Vincent and reconcile with Anna, who has become distant and cold and is suffering from depression. Cole's mother Lynn worries about him, especially after seeing mysterious signs of physical harm. At a birthday party, when bullies see that Cole is terribly scared of a cupboard, they lock him in there, causing him to scream in terror about someone seemingly inside with him. Following this, Cole finally confides to Malcolm that he sees dead people who walk around like the living do, unaware that they are dead.\n\nMalcolm thinks Cole is schizophrenic and considers dropping his case. However, after listening to an audiotape from a session with Vincent, he hears a man begging for help in Spanish when Vincent is supposed to be alone in the room, suggesting that Vincent had the same ability. He realizes that Cole is telling the truth and suggests that he try to communicate with the ghosts and help them finish their business."
     },
     {
@@ -2875,9 +2771,7 @@
       "release_year": 2008,
       "poster": "https://static.posters.cz/image/1300/art-photo/the-dark-knight-trilogy-on-fire-i197743.jpg",
       "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
-      "directors": [
-        "Christopher Nolan"
-      ],
+      "directors": ["Christopher Nolan"],
       "actors": [
         "Christian Bale",
         "Heath Ledger",
@@ -2887,11 +2781,7 @@
         "Aaron Eckhart",
         "Maggie Gyllenhaal"
       ],
-      "studios": [
-        "Warner Bros.",
-        "Legendary Pictures",
-        "Syncopy Inc."
-      ],
+      "studios": ["Warner Bros.", "Legendary Pictures", "Syncopy Inc."],
       "storyline": "A gang of masked criminals rob a mafia-owned bank in Gotham City, betraying and killing each other until the sole survivor, the Joker, reveals himself as the mastermind and escapes with the money. The vigilante Batman, district attorney Harvey Dent, and police lieutenant Jim Gordon ally to eliminate Gotham's organized crime. Batman's true identity, the billionaire Bruce Wayne, publicly supports Dent as Gotham's legitimate protector, as Wayne believes Dent's success will allow Batman to retire, allowing him to romantically pursue his childhood friend Rachel Dawes, despite her relationship with Dent.\n\nGotham's mafia bosses gather to discuss protecting their organizations from the Joker, the police, and Batman. The Joker interrupts the meeting and offers to kill Batman for half of the fortune their accountant, Lau, concealed before fleeing to Hong Kong to avoid extradition. With the help of Wayne Enterprises CEO Lucius Fox, Batman finds Lau in Hong Kong and returns him to the custody of Gotham police. His testimony enables Dent to apprehend the crime families. The bosses accept the Joker's offer, and he kills high-profile targets involved in the trial, including the judge and police commissioner. Although Gordon saves the mayor, the Joker threatens that his attacks will continue until Batman reveals his identity. He targets Dent at a fundraising dinner and throws Rachel out of a window, but Batman rescues her.\n\nWayne struggles to understand the Joker's motives, but his butler Alfred Pennyworth says \"some men just want to watch the world burn.\" Dent claims he is Batman to lure out the Joker, who attacks the police convoy transporting him. Batman and Gordon apprehend the Joker, and Gordon is promoted to commissioner. At the police station, Batman interrogates the Joker, who says he finds Batman entertaining and has no intention of killing him. Having deduced Batman's feelings for Rachel, the Joker reveals she and Dent are being held separately in buildings rigged to explode. Batman races to rescue Rachel while Gordon and the other officers go after Dent, but they discover the Joker gave their positions in reverse. The explosives detonate, killing Rachel and severely burning Dent's face on one side. The Joker escapes custody, extracts the fortune's location from Lau, and burns it, killing Lau in the process."
     },
     {
@@ -2901,9 +2791,7 @@
       "release_year": 1991,
       "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=CRRlbK5w8AE",
-      "directors": [
-        "James Cameron"
-      ],
+      "directors": ["James Cameron"],
       "actors": [
         "Arnold Schwarzenegger",
         "Linda Hamilton",
@@ -2911,9 +2799,7 @@
         "Robert Patrick",
         "Joe Morton"
       ],
-      "studios": [
-        "TriStar Pictures"
-      ],
+      "studios": ["TriStar Pictures"],
       "storyline": "In 2029, Earth has been ravaged by the war between the malevolent artificial intelligence Skynet and the human resistance. Skynet sends the T-1000—an advanced, shape-shifting prototype Terminator made of virtually indestructible liquid metal—back in time to kill resistance leader John Connor when he is a child. To protect Connor, the resistance sends back a reprogrammed T-800 Terminator, a less advanced metal endoskeleton covered in living tissue.\n\nIn 1995 Los Angeles, John's mother Sarah is incarcerated in Pescadero State Hospital for her violent efforts to prevent \"Judgment Day\"—the prophesied events of August 29, 1997, when Skynet will gain sentience and, in response to its creators' attempts to deactivate it, incite a nuclear holocaust. John, living with foster parents, also considers Sarah delusional and resents her efforts to prepare him for his future role. The T-1000 locates John in a shopping mall, but the T-800 intervenes, coming to John's aid and enabling his escape. John calls to warn his foster parents, but the T-800 deduces that the T-1000 has already killed them. Realizing the T-800 is programmed to obey him, John forbids it to kill people and orders it to save Sarah from the T-1000.\n\nThe T-800 and John intercept Sarah as she is making an escape attempt, but Sarah flees in horror because the T-800 looks identical to the Terminator sent to kill her in 1984. John and the T-800 persuade her to join them, and they escape the pursuing T-1000. Although distrustful of the T-800, Sarah uses its knowledge of the future to learn that a revolutionary microprocessor, being developed by Cyberdyne engineer Miles Dyson, will be crucial to Skynet's creation. Over the course of their journey, Sarah sees the T-800 serving as a friend and father figure to John, who teaches it catchphrases and hand signs while encouraging it to become more human-like."
     },
     {
@@ -2923,9 +2809,7 @@
       "release_year": 2004,
       "poster": "https://m.media-amazon.com/images/I/41cS6fwQErL._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=sTGyhwvdY6k",
-      "directors": [
-        "M. Night Shyamalan"
-      ],
+      "directors": ["M. Night Shyamalan"],
       "actors": [
         "Joaquin Phoenix",
         "Sigourney Weaver",
@@ -2933,9 +2817,7 @@
         "Adrien Brody",
         "William Hurt"
       ],
-      "studios": [
-        "Touchstone Pictures"
-      ],
+      "studios": ["Touchstone Pictures"],
       "storyline": "In 19th-century Pennsylvania, a small, remote village lives in fear of nameless humanoid-creatures that inhabit the surrounding woods. Staffed watchtowers and tall poles with oil lamps line the village perimeter for protection. Also, the color red is banned, as it attracts the creatures.\n\nFollowing a young villager's death, Lucius Hunt requests, and is denied, the elders' permission to travel through the woods and retrieve medical supplies from \"the towns\" to avoid similar tragedies. Later, Lucius' widowed mother, Alice, questions his wanting to visit \"the towns,\" which the elders describe as wicked.\n\nThe elders appear to have secrets, and each keeps a locked black box containing unknown items. It is learned that as long as villagers avoid the woods, the creatures stay away. Lucius secretly ventures into the woods, though he later tells the elders and claims it was safe. Soon after, skinned animal carcasses appear in the village. One night, the creatures enter the village, leaving red paint splashes on people's doors as a warning.\n\nElder Edward Walker's daughter, Kitty, fancies Lucius, but he loves Ivy, Kitty's blind younger sister. Kitty marries someone else, which allows Ivy and Lucius to become betrothed. Before they marry, Noah Percy, a young man with an apparent developmental disability, stabs Lucius out of jealousy. As the elders consider Noah's fate, he remains locked in a small building."
     },
     {
@@ -2945,9 +2827,7 @@
       "release_year": 2012,
       "poster": "https://static.posters.cz/image/750/%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D0%B8/the-hobbit-an-unexpected-journey-i34677.jpg",
       "trailer": "https://www.youtube.com/watch?v=SDnYMbYB-nU",
-      "directors": [
-        "Peter Jackson"
-      ],
+      "directors": ["Peter Jackson"],
       "actors": [
         "Ian McKellen",
         "Cate Blanchett",
@@ -2955,11 +2835,7 @@
         "Christopher Lee",
         "Andy Serkis"
       ],
-      "studios": [
-        "New Line Cinema",
-        "Warner Bros.",
-        "Metro-Goldwyn-Mayer"
-      ],
+      "studios": ["New Line Cinema", "Warner Bros.", "Metro-Goldwyn-Mayer"],
       "storyline": "Approaching his 111th birthday, the Hobbit Bilbo Baggins begins writing the story of his adventure 60 years earlier for his nephew, Frodo.\n\nLong before Bilbo's involvement, the Dwarf king Thrór brought an era of prosperity for his kin under the Lonely Mountain until the arrival of the dragon Smaug. Smaug destroyed the nearby town of Dale, drove the Dwarves out of their mountain and took their hoard of gold. Thrór's grandson, Thorin, sees King Thranduil and his Wood-elves on a nearby hillside, and is dismayed when they leave rather than aid his people, resulting in Thorin's everlasting hatred of Elves.\n\nIn the Shire, 50-year-old Bilbo is tricked by the wizard Gandalf the Grey into hosting a dinner for Thorin and his company of Dwarves: Balin, Dwalin, Fíli, Kíli, Dori, Nori, Ori, Óin, Glóin, Bifur, Bofur, and Bombur. Gandalf's aim is to recruit Bilbo as the company's \"burglar\" to aid them in their quest to enter the Lonely Mountain. Bilbo is unwilling to accept at first, but has a change of heart after the company leaves without him the next day, racing to join them. Travelling onward, the company is captured by three Trolls. Bilbo stalls the Trolls from eating them until dawn, and Gandalf exposes the trolls to sunlight, turning them to stone. The company locates the Trolls' cave and finds treasure and Elven blades. Thorin and Gandalf each take an Elf-made blade, Orcrist and Glamdring, respectively; Gandalf gives an Elven dagger to Bilbo."
     },
     {
@@ -2969,9 +2845,7 @@
       "release_year": 2012,
       "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=cFv2xPvQfJ4",
-      "directors": [
-        "Joss Whedon"
-      ],
+      "directors": ["Joss Whedon"],
       "actors": [
         "Robert Downey Jr.",
         "Chris Evans",
@@ -2982,10 +2856,7 @@
         "Tom Hiddleston",
         "Samuel L. Jackson"
       ],
-      "studios": [
-        "Marvel Studios",
-        "Paramount Pictures"
-      ],
+      "studios": ["Marvel Studios", "Paramount Pictures"],
       "storyline": "The Asgardian Loki encounters the Other, the leader of an extraterrestrial race known as the Chitauri. In exchange for obtaining the Tesseract, a powerful energy source of unknown potential, the Other promises to provide Loki with an army to conquer Earth. Nick Fury, director of the espionage agency S.H.I.E.L.D., arrives at a remote research facility where physicist Dr. Erik Selvig is leading a team studying the Tesseract. It suddenly activates and opens a wormhole, allowing Loki to reach Earth. Loki steals the Tesseract and uses his scepter to enslave Selvig and other agents, including Clint Barton, to aid him.\n\nIn response, Fury reactivates the \"Avengers Initiative\". Agent Natasha Romanoff travels to Kolkata to recruit Dr. Bruce Banner so he can trace the Tesseract through its gamma radiation emissions. Fury approaches Steve Rogers to discuss his knowledge of the Tesseract, and Agent Phil Coulson visits Tony Stark so he can check Selvig's research. Loki is in Stuttgart, where Barton steals iridium needed to stabilize the Tesseract. This leads to a confrontation with Rogers, Stark, and Romanoff that ends with Loki's surrender. While Loki is being escorted to S.H.I.E.L.D., his adoptive brother Thor arrives and frees him, hoping to convince him to abandon his plan and return to Asgard. Stark and Rogers intervene, and Loki is imprisoned in S.H.I.E.L.D.'s flying aircraft carrier, the Helicarrier.\n\nThe Avengers disagree on how to approach Loki and become argumentative once they realize S.H.I.E.L.D. plans to use the Tesseract to create weapons of mass destruction for use against hostile extraterrestrials. During the argument, Loki's agents attack the Helicarrier, and the stress causes Banner to transform into the Hulk. Stark and Rogers restart the damaged engine while Thor attempts to stop the Hulk's rampage. Romanoff subdues Barton, freeing him from Loki's influence. Loki escapes after mortally wounding Coulson. Fury uses Coulson's subsequent death to motivate the Avengers to work together as a team. Loki uses the Tesseract and a generator Selvig built to open a wormhole above Stark Tower in New York City to bring his Chitauri fleet and start his invasion."
     },
     {
@@ -2995,9 +2866,7 @@
       "release_year": 2012,
       "poster": "https://static.posters.cz/image/1300/art-photo/the-dark-knight-trilogy-rise-i184445.jpg",
       "trailer": "https://www.youtube.com/watch?v=GokKUqLcvD8",
-      "directors": [
-        "Christopher Nolan"
-      ],
+      "directors": ["Christopher Nolan"],
       "actors": [
         "Christian Bale",
         "Michael Caine",
@@ -3006,10 +2875,7 @@
         "Tom Hardy",
         "Joseph Gordon-Levitt"
       ],
-      "studios": [
-        "Warner Bros.",
-        "Legendary Pictures"
-      ],
+      "studios": ["Warner Bros.", "Legendary Pictures"],
       "storyline": "Bane, a former member of the League of Shadows, leads an attack on a CIA plane over Uzbekistan to abduct nuclear physicist, Dr. Leonid Pavel, and fake Pavel's death in the crash.\n\nMeanwhile, eight years after the death of Gotham City District Attorney Harvey Dent, organized crime has been eradicated in Gotham by legislation, the Dent Act, giving expanded powers to the police. James Gordon, police commissioner, has kept Dent's killing spree a secret and allowed the blame for his crimes to fall on Batman. Bruce Wayne, still mourning the death of Rachel Dawes, has become a recluse, and Wayne Enterprises has stagnated.\n\nBane enlists businessman John Daggett to buy Bruce's fingerprints. Burglar Selina \"Catwoman\" Kyle steals Bruce's prints from Wayne Manor for Daggett, but he double-crosses her, and she alerts the police, who pursue Bane and Daggett's henchmen into the sewers while Catwoman flees. The henchmen capture Gordon and take him to Bane, but he escapes and is found by Officer John Blake, an orphan who has deduced Bruce's secret identity and persuades him to resume his vigilantism. Bane attacks the Gotham Stock Exchange and uses Bruce's fingerprints to verify a series of fraudulent transactions, leaving Bruce bankrupt. Batman resurfaces to pursue Bane's henchmen. Fearing Bruce will get himself killed fighting Bane, his butler, Alfred Pennyworth, resigns in the hope of saving him after admitting to burning a letter that Rachel left for him saying she was going to marry Dent. Bane expands his operations and kills Daggett while Bruce and Wayne Enterprises' new CEO, Miranda Tate, become lovers."
     },
     {
@@ -3019,9 +2885,7 @@
       "release_year": 2010,
       "poster": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2919271/5944675/MOVEB46211__19379.1679590452.jpg",
       "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
-      "directors": [
-        "Christopher Nolan"
-      ],
+      "directors": ["Christopher Nolan"],
       "actors": [
         "Leonardo DiCaprio",
         "Joseph Gordon-Levitt",
@@ -3032,11 +2896,7 @@
         "Marion Cotillard",
         "Michael Caine"
       ],
-      "studios": [
-        "Warner Bros.",
-        "Syncopy Inc.",
-        "Legendary Pictures"
-      ],
+      "studios": ["Warner Bros.", "Syncopy Inc.", "Legendary Pictures"],
       "storyline": "Cobb and Arthur are \"extractors\" who perform corporate espionage using experimental dream-sharing technology to infiltrate their targets' subconscious and extract information. Their latest target, Saito, is impressed with Cobb's ability to layer multiple dreams within each other. He offers to hire Cobb for the ostensibly impossible job of implanting an idea into a person's subconscious; performing \"inception\" on Robert Fischer, the son of Saito's competitor Maurice Fischer, with the idea to dissolve his father's company. In return, Saito promises to clear Cobb's criminal status, allowing him to return home to his children.\n\nCobb accepts the offer and assembles his team: a forger named Eames, a chemist named Yusuf, and a college student named Ariadne. Ariadne is tasked with designing the dream's architecture, something Cobb himself cannot do for fear of being sabotaged by his mind's projection of his late wife, Mal. Maurice Fischer dies, and the team sedates Robert Fischer into a three-layer shared dream on an airplane to America bought by Saito. Time on each layer runs slower than the layer above, with one member staying behind on each to perform a music-synchronized \"kick\" (using the French song \"Non, je ne regrette rien\") to awaken dreamers on all three levels simultaneously.\n\nThe team abducts Robert in a city on the first level, but his trained subconscious projections attack them. After Saito is wounded, Cobb reveals that while dying in the dream would usually awaken dreamers, Yusuf's sedatives will instead send them into \"Limbo\": a world of infinite subconscious. Eames impersonates Robert's godfather, Peter Browning, to introduce the idea of an alternate will to dissolve the company."
     },
     {
@@ -3046,9 +2906,7 @@
       "release_year": 2002,
       "poster": "https://m.media-amazon.com/images/M/MV5BMjE0YjUzNDUtMjc5OS00MTU3LTgxMmUtODhkOThkMzdjNWI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=1bq0qff4iF8",
-      "directors": [
-        "Chris Columbus"
-      ],
+      "directors": ["Chris Columbus"],
       "actors": [
         "Daniel Radcliffe",
         "Rupert Grint",
@@ -3061,9 +2919,7 @@
         "Jason Isaacs",
         "John Hurt"
       ],
-      "studios": [
-        "Warner Bros."
-      ],
+      "studios": ["Warner Bros."],
       "storyline": "Spending the summer with the Dursleys, Harry Potter meets Dobby, a house-elf who warns him not to return to Hogwarts or danger will strike. When Harry refuses, Dobby sabotages an important dinner for the Dursleys, who lock up Harry to prevent his departure. Harry's friend Ron Weasley and his brothers Fred and George rescue him in their father's flying car.\n\nIn Diagon Alley, Harry, the Weasleys and Hermione Granger notice a book-signing by Gilderoy Lockhart, Hogwarts' new Defence Against the Dark Arts teacher. There, Harry sees Draco Malfoy's father, Lucius, slip a book into Ginny Weasley's cauldron. After being blocked from entering Platform Nine and Three-Quarters at King's Cross railway station, Harry and Ron take the car to Hogwarts. There, they crash into the Whomping Willow, breaking Ron's wand, and receive detention.\n\nIn detention, Harry hears a strange voice and later finds caretaker Argus Filch's cat, Mrs Norris, petrified beside a message written in blood: \"The Chamber of Secrets has been opened, enemies of the heir... beware.\" One of Hogwarts' founders, Salazar Slytherin, supposedly constructed a secret Chamber containing a monster that only his heir can control, capable of purging the school of Muggle-born students. To solve this mystery, Harry, Ron, and Hermione plan to question Malfoy, using polyjuice potion, which they brew in a bathroom haunted by Moaning Myrtle, a ghost."
     },
     {
@@ -3073,9 +2929,7 @@
       "release_year": 2005,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=02admFCx06U",
-      "directors": [
-        "Andrew Adamson"
-      ],
+      "directors": ["Andrew Adamson"],
       "actors": [
         "Georgie Henley",
         "Skandar Keynes",
@@ -3084,10 +2938,7 @@
         "Tilda Swinton",
         "Jim Broadbent"
       ],
-      "studios": [
-        "Walt Disney Pictures",
-        "Walden Media"
-      ],
+      "studios": ["Walt Disney Pictures", "Walden Media"],
       "storyline": "After an air raid during World War II, the Pevensie children - Peter, Susan, Edmund, and Lucy - are evacuated from London to the country home of Professor Kirke.\n\nDuring a game of hide-and-seek, Lucy discovers a wardrobe and hides inside, only to find that she has entered a magical winter world. She encounters a faun named Mr. Tumnus, who tells her she is in Narnia. Tumnus puts Lucy to sleep by playing a flute lullaby; when she wakes up, he explains that the White Witch has cursed Narnia to eternally experience winter and never Christmas; any humans encountered are to be brought to her. Unable to hand over Lucy, Tumnus quickly sends her back home, where she finds that hardly any time has passed in the real world.\n\nLucy later returns through the wardrobe, followed by Edmund. Edmund meets the White Witch and tells her about Tumnus. The Witch offers him Turkish delight and kingship if he brings his siblings to her. In the real world, Lucy informs Peter and Susan, but Edmund betrays her by lying out of spite. Professor Kirke, however, suggests Lucy is telling the truth.\n\nWhile fleeing the housekeeper after accidentally breaking a window, the siblings retreat to the wardrobe and enter Narnia. Peter angrily snaps at Edmund for lying to Lucy and forces him to apologize to her. They discover that the Witch has taken Tumnus, and meet talking beavers, who say Aslan plans to return and regain control of Narnia, and that there is a prophecy that when two sons of Adam and two daughters of Eve sit on the thrones of Cair Paravel, the Witch's reign will end."
     },
     {
@@ -3097,9 +2948,7 @@
       "release_year": 2015,
       "poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
       "trailer": "https://www.youtube.com/watch?v=hEJnMQG9ev8",
-      "directors": [
-        "George Miller"
-      ],
+      "directors": ["George Miller"],
       "actors": [
         "Tom Hardy",
         "Charlize Theron",
@@ -3121,9 +2970,7 @@
       "release_year": 1993,
       "poster": "https://vice-press.com/cdn/shop/products/Jurassic-Park-Editions-poster-florey.jpg",
       "trailer": "https://www.youtube.com/watch?v=QWBKEmWWL38",
-      "directors": [
-        "Steven Spielberg"
-      ],
+      "directors": ["Steven Spielberg"],
       "actors": [
         "Samuel L. Jackson",
         "Sam Neill",
@@ -3131,10 +2978,7 @@
         "Jeff Goldblum",
         "Richard Attenborough"
       ],
-      "studios": [
-        "Universal Studios",
-        "Amblin Entertainment"
-      ],
+      "studios": ["Universal Studios", "Amblin Entertainment"],
       "storyline": "Industrialist John Hammond has created Jurassic Park, a theme park of cloned dinosaurs, on the tropical island Isla Nublar, located off of the coast of Costa Rica. After a Velociraptor kills a dinosaur handler, the park's investors, represented by lawyer Donald Gennaro, demand a safety certification. Gennaro invites chaotician Ian Malcolm, and Hammond invites paleontologist Alan Grant and paleobotanist Ellie Sattler. Upon arrival, the group is shocked to see a live Brachiosaurus and other dinosaurs.\n\nAt the park's visitor center, the group learns that the cloning was accomplished by extracting dinosaur DNA from prehistoric mosquitoes preserved in amber. DNA from frogs, among other animals, was used to fill in gaps in the dinosaurs' genome. To prevent breeding, the dinosaurs were made female by direct chromosome manipulation. The group witnesses the hatching of a baby Velociraptor and visits the raptor enclosure. During lunch, the group debates the ethics of cloning and the park's creation. Malcolm warns of the implications of genetic engineering and scoffs at the park's design, saying it will inevitably break down.\n\nHammond's grandchildren, Lex and Tim, join the others for a tour of the park, while Hammond oversees them from the control room. Most of the dinosaurs fail to appear and the group encounters a sick Triceratops. The tour is cut short as a tropical storm approaches. The park employees leave for the mainland on a boat, while the visitors return to their railed-electric tour vehicles, except Sattler, who stays behind with the park's veterinarian, Dr. Harding, to study the sick Triceratops."
     },
     {
@@ -3144,10 +2988,7 @@
       "release_year": 1999,
       "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=wGacf3XAgE8",
-      "directors": [
-        "Lana Wachowski",
-        "Lilly Wachowski"
-      ],
+      "directors": ["Lana Wachowski", "Lilly Wachowski"],
       "actors": [
         "Hugo Weaving",
         "Keanu Reeves",
@@ -3169,9 +3010,7 @@
       "release_year": 1997,
       "poster": "https://m.media-amazon.com/images/I/71uoicxpqoS._AC_UF1000,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=LuPB43YSgCs",
-      "directors": [
-        "James Cameron"
-      ],
+      "directors": ["James Cameron"],
       "actors": [
         "Leonardo DiCaprio",
         "Kate Winslet",
@@ -3193,9 +3032,7 @@
       "release_year": 2001,
       "poster": "https://static.posters.cz/image/1300/%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D0%B8/harry-potter-philosopher-s-stone-i104639.jpg",
       "trailer": "https://www.youtube.com/watch?v=VyHV0BRtdxo",
-      "directors": [
-        "Chris Columbus"
-      ],
+      "directors": ["Chris Columbus"],
       "actors": [
         "Daniel Radcliffe",
         "Rupert Grint",
@@ -3203,9 +3040,7 @@
         "Robbie Coltrane",
         "Maggie Smith"
       ],
-      "studios": [
-        "Warner Bros."
-      ],
+      "studios": ["Warner Bros."],
       "storyline": "Late one night, Albus Dumbledore and Minerva McGonagall, professors at Hogwarts School of Witchcraft and Wizardry, along with groundskeeper Rubeus Hagrid, deliver an orphaned infant wizard named Harry Potter to his Muggle aunt and uncle, Petunia and Vernon Dursley, his only living relatives.\n\nTen years later, just before Harry's eleventh birthday, owls begin delivering letters addressed to him. When the abusive Dursleys adamantly refuse to allow Harry to open any and flee to an island hut, Hagrid arrives to personally deliver Harry's letter of acceptance to Hogwarts. Hagrid also reveals that Harry's late parents, James and Lily, were killed by a dark wizard named Lord Voldemort. The killing curse that Voldemort had cast towards Harry rebounded, destroying Voldemort's body and giving Harry the lightning-bolt scar on his forehead. Hagrid then takes Harry to Diagon Alley for school supplies and gives him a pet snowy owl whom he names Hedwig. Harry buys a wand that is connected to Voldemort's own wand.\n\nAt King's Cross, Harry boards the Hogwarts Express train, and meets fellow first-years Ron Weasley and Hermione Granger during the journey. Arriving at Hogwarts, Harry also meets Draco Malfoy, who is from a wealthy wizard family; the two immediately form a rivalry. The students assemble in the Great Hall where the Sorting Hat sorts the first-years into four respective houses: Gryffindor, Hufflepuff, Ravenclaw, and Slytherin. Harry is placed into Gryffindor alongside Ron and Hermione, while Draco is placed into Slytherin, a house noted for dark wizards."
     },
     {
@@ -3215,9 +3050,7 @@
       "release_year": 2005,
       "poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=neY2xVmOfUM",
-      "directors": [
-        "Christopher Nolan"
-      ],
+      "directors": ["Christopher Nolan"],
       "actors": [
         "Christian Bale",
         "Michael Caine",
@@ -3225,11 +3058,7 @@
         "Katie Holmes",
         "Liam Neeson"
       ],
-      "studios": [
-        "Warner Bros.",
-        "Legendary Pictures",
-        "Syncopy Inc."
-      ],
+      "studios": ["Warner Bros.", "Legendary Pictures", "Syncopy Inc."],
       "storyline": "In Gotham City, after falling down a well and getting swarmed by bats, a young Bruce Wayne develops a fear of them. At the opera with his parents, Bruce becomes unsettled by performers masquerading as bats and asks to leave. Outside, mugger Joe Chill murders Bruce's parents in front of him. Bruce is raised by the family butler, Alfred Pennyworth.\n\nFourteen years later, Chill testifies against the mafia crime boss, Carmine Falcone, and is paroled. Bruce intends to murder Chill to avenge his parents, but one of Falcone's hitmen does so first. Bruce's childhood friend, Rachel Dawes, berates him for acting outside the justice system. After confronting Falcone, who says real power comes from being feared, Bruce spends the next seven years traveling the world, training in combat, and immersing himself in the criminal underworld.\n\nIn a Bhutan prison, he is approached by Henri Ducard, who recruits him to the League of Shadows, led by Ra's al Ghul. The League believes Gotham is beyond saving and intends to destroy it. After completing his training, Bruce rejects the League and its mandate that killing is necessary. He escapes, burning down their temple in the process. Ra's is killed by falling debris, while Bruce saves the unconscious Ducard. Intent on fighting crime, Bruce returns to Gotham and takes an interest in his family's company, Wayne Enterprises, which is being taken public by businessman William Earle. Company archivist Lucius Fox, a friend of Bruce's father, allows him access to prototype defense technologies, including a protective bodysuit and the Tumbler, an armored vehicle. Bruce poses publicly as a shallow playboy while setting up a base in the caves beneath Wayne Manor and taking up the vigilante identity of \"Batman,\" inspired by his childhood fear, which he has now conquered."
     },
     {
@@ -3239,9 +3068,7 @@
       "release_year": 1982,
       "poster": "https://upload.wikimedia.org/wikipedia/uk/archive/5/53/20110104212121%21Blade_Runner_poster.jpg",
       "trailer": "https://www.youtube.com/watch?v=eogpIG53Cis",
-      "directors": [
-        "Ridley Scott"
-      ],
+      "directors": ["Ridley Scott"],
       "actors": [
         "Harrison Ford",
         "Rutger Hauer",
@@ -3249,10 +3076,7 @@
         "Edward James Olmos",
         "Daryl Hannah"
       ],
-      "studios": [
-        "Warner Bros.",
-        "The Ladd Company"
-      ],
+      "studios": ["Warner Bros.", "The Ladd Company"],
       "storyline": "In 2019 Los Angeles, former police officer Rick Deckard is detained by Officer Gaff, who likes to make origami figures, and is brought to his former supervisor, Bryant. Deckard, whose job as a \"blade runner\" was to track down bioengineered humanoids known as replicants and terminally \"retire\" them, is informed that four replicants are on Earth illegally. Deckard begins to leave, but Bryant ambiguously threatens him and Deckard stays. The two watch a video of a blade runner named Holden administering the Voight-Kampff test, which is designed to distinguish replicants from humans based on their emotional responses to questions. The test subject, Leon, shoots Holden on the second question. Bryant wants Deckard to retire Leon and three other Nexus-6 replicants: Roy Batty, Zhora, and Pris.\n\nBryant has Deckard meet with the CEO of the company that creates the replicants, Eldon Tyrell, so he can administer the test on a Nexus-6 to see if it works. Tyrell expresses his interest in seeing the test fail first and asks him to administer it on his assistant Rachael. After a much longer than standard test, Deckard concludes privately to Tyrell that Rachael is a replicant who believes she is human. Tyrell explains that she is an experiment who has been given false memories to provide an \"emotional cushion\", and that she has no knowledge of her true nature.\n\nIn searching Leon's hotel room, Deckard finds photos and a scale from the skin of an animal, which is later identified as a synthetic snake scale. Deckard returns to his apartment where Rachael is waiting. She tries to prove her humanity by showing him a family photo, but Deckard reveals that her memories are implants from Tyrell's niece, and she leaves in tears."
     },
     {
@@ -3262,9 +3086,7 @@
       "release_year": 2006,
       "poster": "https://image.tmdb.org/t/p/original/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg",
       "trailer": "https://www.youtube.com/watch?v=RLtaA9fFNXU",
-      "directors": [
-        "Christopher Nolan"
-      ],
+      "directors": ["Christopher Nolan"],
       "actors": [
         "Christian Bale",
         "Michael Caine",
@@ -3272,11 +3094,7 @@
         "Hugh Jackman",
         "Piper Perabo"
       ],
-      "studios": [
-        "Warner Bros.",
-        "Touchstone Pictures",
-        "Syncopy Inc."
-      ],
+      "studios": ["Warner Bros.", "Touchstone Pictures", "Syncopy Inc."],
       "storyline": "In 1890s London, Robert Angier and Alfred Borden work as plants (clandestine assistants posing as members of the audience) for a magician, under the mentorship of John Cutter, an engineer who designs stage magic. During a water tank trick, Angier's wife Julia fails to escape and drowns when Borden ties a different knot. Angier, devastated, accuses Borden of causing her death. The two become bitter enemies and part ways. Borden begins a solo act while Cutter helps Angier launch his own career. In retaliation for his wife's death, Angier sabotages Borden's bullet catch trick and shoots off two of the latter's fingers. Borden, in turn, sabotages a performance of Angier's and later develops a trick he calls \"The Transported Man,\" in which he appears to travel instantly between two wardrobes on opposite ends of the stage.\n\nUnable to discern Borden's method, Angier hires a double, Gerald Root, to perform his version of the trick. The imitation is a greater success, but Angier is dissatisfied, as he ends the trick hidden under the stage while Root basks in the applause. Borden then approaches Root and explains that he has high leveraging power over Angier, causing him to act more and more arrogant. In return, Angier has his assistant Olivia spy on Borden to learn how he performs The Transported Man. However, Olivia falls in love with Borden and becomes his assistant. With her help, Borden sabotages Angier's act, crippling him. Confronted by Angier, Olivia gives him a copy of Borden's encoded diary. Angier acquires the keyword to decode it, \"TESLA,\" by threatening to kill Borden's stage engineer, Fallon. The diary takes Angier to America to meet scientist Nikola Tesla, who supposedly built a machine for The Transported Man trick."
     },
     {
@@ -3286,9 +3104,7 @@
       "release_year": 1997,
       "poster": "https://m.media-amazon.com/images/I/51F5dxl+MwL._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=pqs9ycvKfD8",
-      "directors": [
-        "Luc Besson"
-      ],
+      "directors": ["Luc Besson"],
       "actors": [
         "Bruce Willis",
         "Gary Oldman",
@@ -3296,10 +3112,7 @@
         "Ian Holm",
         "Chris Tucker"
       ],
-      "studios": [
-        "Gaumont",
-        "Pinewood Studios"
-      ],
+      "studios": ["Gaumont", "Pinewood Studios"],
       "storyline": "In 1914, aliens known as Mondoshawans meet their contact on Earth, a priest of a secret order, at an ancient Egyptian temple. They take the only weapon capable of defeating a great evil that appears every five thousand years, promising to protect it and return it before the great evil's re-emergence. The weapon consists of the four classical elements, as four engraved stones, plus a sarcophagus containing a \"fifth element\".\n\nIn the 23rd century, the great evil appears in deep space as a giant living fireball. It destroys an armed Earth spaceship as it heads to Earth. The Mondoshawans' current human contact on Earth, priest Vito Cornelius, informs the President of the Federated Territories of the great evil's history and of the weapon that can stop it.\n\nOn their way to Earth, a Mondoshawan spacecraft carrying the weapon is ambushed and destroyed by a crew of Mangalores, alien mercenaries hired by Earth industrialist Jean-Baptiste Emanuel Zorg, who is working for the great evil. A severed hand in metal armor from the wreckage of the spacecraft is brought to New York City. From this, the government uses biotechnology to recreate the original occupant of the sarcophagus, a humanoid woman named Leeloo who remembers her previous life. Alarmed by the unfamiliar surroundings and high security, she escapes and jumps off a ledge, crashing into the flying taxicab of Korben Dallas, a former major in Earth's Special Forces."
     },
     {
@@ -3309,9 +3122,7 @@
       "release_year": 2002,
       "poster": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=HhBAIDHvRTc",
-      "directors": [
-        "Paul W.S. Anderson"
-      ],
+      "directors": ["Paul W.S. Anderson"],
       "actors": [
         "Milla Jovovich",
         "Michelle Rodriguez",
@@ -3319,9 +3130,7 @@
         "James Purefoy",
         "Martin Crewes"
       ],
-      "studios": [
-        "Constantin Film"
-      ],
+      "studios": ["Constantin Film"],
       "storyline": "Underneath Raccoon City, a genetic research facility called the Hive is owned by the Umbrella Corporation. A thief steals the genetically engineered T-virus and contaminates the Hive with it. In response, the facility's artificial intelligence, the Red Queen, seals the Hive and kills everyone inside to prevent the virus from leaking into the outside world.\n\nAlice awakens in the bathroom of a deserted mansion, suffering amnesia. She is tackled by an unknown person as a group of commandos led by James Shade breaks in. Alice's attacker claims to be Matt Addison, who just transferred as a cop in Raccoon P.D. Alice and Matt are ordered to go down to the Hive with the group, where they find another amnesiac, Spence, hidden in their train. The commandos explain that everyone in the group except Matt is an employee of the Umbrella Corporation, and Alice and her partner Spence were assigned to guard the Hive's secret entrance beneath the mansion under the pretense of being married.\n\nAt the Red Queen's chamber, a laser defense system kills Shade and three more commandos. Despite the Red Queen's pleas for the group to leave, Kaplan disables it, causing the power to fail and all of the doors in the Hive to open. This releases the zombified staff and containment units holding Lickers, creatures created through experimentation with the T-virus. The humans are attacked by the horde, and J.D. dies while the rest are separated. Alice starts regaining her memories while Matt finds his sister Lisa zombified. Alice saves him, and Matt explains that he and Lisa were environmental activists. Lisa infiltrated Umbrella to smuggle out the evidence of illegal experiments and shut Umbrella down. Alice remembers that she was Lisa's contact in the Hive but does not tell Matt. The survivors reunite at the Red Queen's chamber, where the commandos explain they have one hour before the Hive traps them inside automatically. Alice and Kaplan activate the Red Queen to find an exit; to force her cooperation, they rig a remote shutdown."
     },
     {
@@ -3331,9 +3140,7 @@
       "release_year": 2010,
       "poster": "https://m.media-amazon.com/images/I/51MsI8xR-NL._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=v8yrZSkKxTA",
-      "directors": [
-        "Martin Scorsese"
-      ],
+      "directors": ["Martin Scorsese"],
       "actors": [
         "Leonardo DiCaprio",
         "Mark Ruffalo",
@@ -3341,9 +3148,7 @@
         "Max von Sydow",
         "Michelle Williams"
       ],
-      "studios": [
-        "Paramount Pictures"
-      ],
+      "studios": ["Paramount Pictures"],
       "storyline": "In 1954, U.S. Marshal Edward \"Teddy\" Daniels and his new partner Chuck Aule travel to Ashecliffe Hospital for the criminally insane on Shutter Island, Boston Harbor, to investigate the disappearance of Rachel Solando, a patient of the hospital who had previously drowned her three children.\n\nThe staff, led by psychiatrist Dr. John Cawley, appear uncooperative. The marshals learn that Dr. Lester Sheehan, who was treating Solando, had left the island on vacation immediately after Solando disappeared. Teddy experiences migraine headaches, flashbacks of his experiences as a U.S. Army soldier during the liberation of Dachau, and also vivid dreams of his wife Dolores, who was killed in a fire set by arsonist Andrew Laeddis. Teddy explains to Chuck that he took the case to find Laeddis, believing he is on the island. Solando suddenly resurfaces and believes Teddy is her husband. Teddy later breaks into the restricted Ward C to find Laeddis, where he meets patient George Noyce who appears to know Teddy. He tells Teddy that the doctors experiment on patients and some are taken to a lighthouse to be lobotomized. He warns Teddy that everyone is deceiving him and tells him not to trust Chuck.\n\nTeddy regroups with Chuck and they climb the cliffs toward the lighthouse but become separated. Believing he saw Chuck's body on the rocks below, Teddy climbs down but finds only a cave where a woman claiming to be the real Solando is hiding. She states that she is a former psychiatrist who discovered clandestine experiments to develop mind control but was forcibly committed. She says that Cawley and Dr. Naehring will use Teddy's war trauma to feign a psychotic break, allowing them to have him also committed. Teddy returns to the hospital and is greeted by Cawley. When Teddy asks about Chuck's whereabouts, Cawley insists that Teddy does not have a partner and that he arrived on the island alone."
     },
     {
@@ -3353,9 +3158,7 @@
       "release_year": 2017,
       "poster": "https://m.media-amazon.com/images/I/51wewtpj08L._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=Div0iP65aZo",
-      "directors": [
-        "James Mangold"
-      ],
+      "directors": ["James Mangold"],
       "actors": [
         "Hugh Jackman",
         "Patrick Stewart",
@@ -3363,10 +3166,7 @@
         "Boyd Holbrook",
         "Stephen Merchant"
       ],
-      "studios": [
-        "20th Century Studios, Inc.",
-        "Marvel Studios"
-      ],
+      "studios": ["20th Century Studios, Inc.", "Marvel Studios"],
       "storyline": "In 2029, no mutants have been born in 25 years, and an aging Logan suffers as his healing ability is failing. Working as a limousine driver in El Paso, Texas, he and mutant tracker Caliban take care of 97-year-old Charles Xavier, founder of the X-Men, in an abandoned smelting plant in northern Mexico. Xavier suffers from dementia that causes him to have destructive telepathic seizures, one of which injured 600 people and killed several X-Men the year prior.\n\nLogan reluctantly agrees to escort Gabriela López, a former nurse for biotechnology corporation Alkali-Transigen, and a young girl named Laura to Eden, a supposed refuge near the American-Canadian border. After finding Gabriela dead, Logan is confronted by her killer Donald Pierce, who is Transigen's cyborg chief of security. Pierce is looking for Laura, who has stowed away in Logan's limo and has powers similar to his. She, Logan, and Xavier escape from Pierce and his Reavers, but Caliban is captured. Pierce tortures Caliban into tracking Laura. Xavier and Logan watch a video on Gabriela's phone, revealing that Transigen created Laura and other children from mutant DNA to become weapons. The children proved challenging to control and were to be executed, but Gabriela and other nurses helped some escape. Xavier reveals to Logan that Laura was created from Logan's DNA and calls her Logan's daughter.\n\nIn Oklahoma City, Logan discovers that Eden appears in Laura's X-Men comic and tells her it is fictional. The Reavers arrive, but Xavier has a seizure that incapacitates everyone except Logan and Laura, who kill the attackers and inject Xavier with his medication. As they flee, Dr. Zander Rice, the head of Transigen, arrives to help Pierce."
     },
     {
@@ -3376,9 +3176,7 @@
       "release_year": 1994,
       "poster": "https://m.media-amazon.com/images/I/51WYsbIa7TS._AC_UF1000,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=JhbYCKyj7aA",
-      "directors": [
-        "Frank Darabont"
-      ],
+      "directors": ["Frank Darabont"],
       "actors": [
         "Morgan Freeman",
         "Tim Robbins",
@@ -3386,10 +3184,7 @@
         "Clancy Brown",
         "Gil Bellows"
       ],
-      "studios": [
-        "Columbia Pictures",
-        "Warner Bros."
-      ],
+      "studios": ["Columbia Pictures", "Warner Bros."],
       "storyline": "In early 1947, Portland, Maine banker Andy Dufresne arrives at Shawshank State Prison to serve two consecutive life sentences for murdering his wife and her lover. He is befriended by Ellis \"Red\" Redding, a contraband smuggler serving a life sentence, who procures a rock hammer and a large poster of Rita Hayworth for Andy. Assigned to work in the prison laundry, Andy is frequently raped by \"the Sisters\" prison gang and their leader, Bogs Diamond.\n\nIn 1949, Andy overhears the captain of the guards, Byron Hadley, complaining about being taxed on an inheritance and offers to help him shelter the money legally. After an assault by the Sisters nearly kills Andy, Hadley beats and cripples Bogs, who is subsequently transferred to a minimum security hospital; Andy is not attacked again. Warden Samuel Norton meets Andy and reassigns him to the decrepit prison library to assist elderly inmate Brooks Hatlen, a front to use Andy's financial expertise to manage financial matters for other prison staff, guards from other prisons, and the warden himself. Andy begins writing weekly letters to the state legislature requesting funds to improve the library.\n\nBrooks is paroled in 1954 after serving 50 years, but he cannot adjust to the outside world and eventually hangs himself. The legislature sends a library donation that includes a recording of The Marriage of Figaro; Andy plays an excerpt over the public address system and is punished with solitary confinement. After his release from solitary, Andy explains to a dismissive Red that hope is what gets him through his sentence. In 1963, Norton begins exploiting prison labor for public works, profiting by undercutting skilled labor costs and receiving bribes. Andy launders the money using the alias \"Randall Stephens.\""
     },
     {
@@ -3399,9 +3194,7 @@
       "release_year": 2001,
       "poster": "https://m.media-amazon.com/images/M/MV5BYzVmYzVkMmUtOGRhMi00MTNmLThlMmUtZTljYjlkMjNkMjJkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=imm6OR605UI",
-      "directors": [
-        "Steven Soderbergh"
-      ],
+      "directors": ["Steven Soderbergh"],
       "actors": [
         "Brad Pitt",
         "George Clooney",
@@ -3409,9 +3202,7 @@
         "Julia Roberts",
         "Andy Garcia"
       ],
-      "studios": [
-        "Warner Bros."
-      ],
+      "studios": ["Warner Bros."],
       "storyline": "Professional thief Danny Ocean is released from a New Jersey prison after four years and travels to Los Angeles to reunite with his friend and colleague Rusty Ryan. The pair travel to Las Vegas to secure the financial backing of their wealthy friend Reuben Tishkoff to undertake a multi-million dollar heist in which they will rob three casinos owned by Tishkoff's ruthless rival Terry Benedict: the Bellagio, the Mirage, and the MGM Grand. Legally required to have enough cash available to cover all their patrons' bets, Danny estimates that on the eve of an upcoming high-profile boxing match, the casinos will hold over $150 million in an underground vault guarded by virtually unassailable security measures and systems. Having been forced out of his casino by Benedict, Tishkoff readily agrees to participate.\n\nDanny and Rusty recruit six former acquaintances: con man Frank Catton, aging and retired con man Saul Bloom, auto specialists Virgil and Turk Malloy, explosives expert Basher Tarr, and surveillance technician Livingston Dell, as well as acrobat Yen and pickpocket Linus Caldwell. Each member is assigned to infiltrate or surveil the Bellagio to learn about the security, the routines, the behaviors of the casino staff, and the building itself. They also build a precise replica of the vault to practice the heist. Linus is tasked with tracking Benedict himself, eventually uncovering that he is dating Danny's ex-wife Tess. Furious at Danny's deception and believing he is motivated mainly by reconnecting with Tess, Rusty tells him to call off the heist, but Danny refuses. Danny later meets with Tess, who is still hurt by their former relationship, and Benedict who has Danny barred from his casinos.\n\nThe team commence the heist while Danny enters the Bellagio and Benedict has him detained in a surveillance-free room to be beaten by Bruiser, who is secretly working with Danny. Danny uses the room's vent to reach the vault elevator and meet up with Linus who has infiltrated the casino as a gambling official. Meanwhile, Saul convinces Benedict to secure a briefcase of jewels—actually disguised explosives—in the vault, while Virgil and Turk smuggle Yen into the vault in a casino trolley. Basher triggers a stolen EMP device which disables electricity across Las Vegas including the laser grid protecting the elevator shaft, allowing Danny and Linus to descend to the vault entrance. The pair neutralize the guards and, with Yen, use Saul's \"jewels\" to destroy the vault locks and secure the cash."
     },
     {
@@ -3421,9 +3212,7 @@
       "release_year": 2009,
       "poster": "https://images.fineartamerica.com/images/artworkimages/medium/3/the-hangover-movie-poster-essencejac-kowski.jpg",
       "trailer": "https://www.youtube.com/watch?v=tcdUhdOlz9M",
-      "directors": [
-        "Todd Phillips"
-      ],
+      "directors": ["Todd Phillips"],
       "actors": [
         "Bradley Cooper",
         "Ed Helms",
@@ -3431,9 +3220,7 @@
         "Justin Bartha",
         "Heather Graham"
       ],
-      "studios": [
-        "Legendary Pictures"
-      ],
+      "studios": ["Legendary Pictures"],
       "storyline": "Two days before his wedding, bachelor Doug Billings travels to Las Vegas with his best friends Phil Wenneck, a sarcastic elementary school teacher, Stu Price, an apprehensive dentist, and Alan Garner, his odd future brother-in-law. Sid, the father of Doug's fiancée Tracy, loans Doug his vintage Mercedes-Benz W111 to drive to Vegas. They book a suite at Caesars Palace and celebrate by sneaking onto the hotel rooftop and taking shots of Jägermeister. The next day, Phil, Stu and Alan awaken, unable to remember the previous night. Doug is nowhere to be found, Stu's tooth is missing, the suite is a mess, a Bengal tiger is in the bathroom, and a baby is in the closet. They see Doug's mattress impaled on a statue outside, and when they ask for their Mercedes, the valet delivers a Las Vegas police cruiser.\n\nRetracing their steps, the trio travel to a hospital, discovering they were drugged with Rohypnol, causing their memory loss, and that they went to the hospital from a chapel the previous night. At the chapel, they learn that Stu married a call girl named Jade, despite being in a relationship with his domineering and philandering girlfriend Melissa. Outside the chapel, the trio is attacked by gangsters demanding to know where \"he\" is. Bewildered, they flee and track down Jade, who is revealed to be the baby's mother.\n\nThey are arrested by the police for having stolen the cruiser. After being told that the Mercedes was impounded, the trio are released when they unwittingly volunteer to be targets for a taser demonstration. While driving the Mercedes, they discover a naked Chinese man named Leslie Chow in the trunk, who beats the trio with a crowbar and flees. Alan confesses that he drugged their drinks to ensure they had a good night, believing the drug to be Ecstasy."
     },
     {
@@ -3443,9 +3230,7 @@
       "release_year": 2015,
       "poster": "https://image.tmdb.org/t/p/original/o6XkwTovSWryJoEY3hoywwHLJtK.jpg",
       "trailer": "https://www.youtube.com/watch?v=QRfj1VCg16Y",
-      "directors": [
-        "Alejandro González Iñárritu"
-      ],
+      "directors": ["Alejandro González Iñárritu"],
       "actors": [
         "Leonardo DiCaprio",
         "Tom Hardy",
@@ -3453,9 +3238,7 @@
         "Will Poulter",
         "Forrest Goodluck"
       ],
-      "studios": [
-        "20th Century Studios, Inc."
-      ],
+      "studios": ["20th Century Studios, Inc."],
       "storyline": "In late 1823, during the Arikara War, fur trapper Hugh Glass guides Captain Andrew Henry's trappers through the territory of the present-day Dakotas. While he and his half-Pawnee son, Hawk, are hunting, the company's camp is attacked by an Arikara war party which is seeking to recover its chief's abducted daughter, Powaqa. Many of the trappers are killed during the fight, and the rest of them escape onto a boat. Guided by Glass, the survivors begin a trek to Fort Kiowa on foot because Glass believes that traveling down the Missouri River will make them vulnerable. After docking, the crew stash their pelts near the shore.\n\nWhile he is scouting game, Glass is mauled and left near death by a female grizzly bear which is guarding its cubs. The racist trapper John Fitzgerald, fearing another Arikara attack, argues that the group must mercy-kill Glass and keep moving. Henry agrees, but he is unable to pull the trigger. Instead, he offers money in order to pay someone to stay with Glass and bury him after he dies. When the only volunteers are Hawk and the young Jim Bridger, Fitzgerald agrees to stay for money, in order to recoup his losses from the abandoned pelts.\n\nAfter the others leave, Fitzgerald attempts to smother Glass but is stopped by Glass's son Hawk, who intervenes. Hawk threatens to shoot Fitzgerald and shouts for Bridger, who is away gathering water so Fitzgerald stabs Hawk to death as Glass watches helplessly. The next morning, Fitzgerald convinces Bridger who is unaware of Hawk's murder that the Arikara are approaching and they must abandon Glass. At first, Bridger protests, but he ultimately follows Fitzgerald after the latter leaves Glass half-buried alive in a makeshift grave. Bridger leaves his canteen with Glass, on which he had engraved a spiral symbol. After they depart, Fitzgerald admits that he lied about the approaching Arikara. When Fitzgerald and Bridger later meet Henry at the fort, Fitzgerald tells Henry that Glass died and Hawk vanished. Bridger is complicit in the lie about Glass's death, but he knows nothing about Hawk's murder."
     },
     {
@@ -3465,9 +3248,7 @@
       "release_year": 2015,
       "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a6be4a102352277.621937d23c642.jpg",
       "trailer": "https://www.youtube.com/watch?v=ej3ioOneTy8",
-      "directors": [
-        "Ridley Scott"
-      ],
+      "directors": ["Ridley Scott"],
       "actors": [
         "Matt Damon",
         "Jessica Chastain",
@@ -3475,10 +3256,7 @@
         "Jeff Daniels",
         "Michael Peña"
       ],
-      "studios": [
-        "20th Century Studios, Inc.",
-        "Scott Free Productions"
-      ],
+      "studios": ["20th Century Studios, Inc.", "Scott Free Productions"],
       "storyline": "In 2035, the crew of the Ares III mission to Mars is exploring Acidalia Planitia on Martian solar day (sol) 18 of their 31-sol expedition. A severe dust storm threatens to topple their Mars Ascent Vehicle (MAV). In the ensuing evacuation, astronaut Mark Watney is struck by debris and presumed dead. With the MAV on the verge of toppling, the remaining crew takes off for their orbiting vessel, the Hermes, leaving Watney behind.\n\nWatney awakens after the storm, injured and with a low-oxygen warning. He returns to the crew's surface habitat (\"Hab\") and treats his wound. As Watney recovers, he begins a video diary. Unable to communicate with Earth, his only chance of rescue is the next Mars mission; in four years, Ares IV will land 3,200 kilometers (2,000 mi) away at the Schiaparelli crater, the Ares IV MAV has already arrived on the site in preparation for the mission.\n\nWatney's immediate concern is food; being a botanist, he creates a garden inside the Hab using Martian soil fertilized with the crew's bio-waste and manufactures water from leftover rocket fuel. He then cultivates potatoes using whole potatoes reserved for a special Thanksgiving meal. He also begins modifying a crewed rover for the journey to the Ares IV MAV."
     },
     {
@@ -3488,9 +3266,7 @@
       "release_year": 2013,
       "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=GNGCav9fRhc",
-      "directors": [
-        "Martin Scorsese"
-      ],
+      "directors": ["Martin Scorsese"],
       "actors": [
         "Leonardo DiCaprio",
         "Jonah Hill",
@@ -3498,9 +3274,7 @@
         "Matthew McConaughey",
         "Kyle Chandler"
       ],
-      "studios": [
-        "Paramount Pictures"
-      ],
+      "studios": ["Paramount Pictures"],
       "storyline": "In 1987, 22-year-old Jordan Belfort lands a job as a Wall Street stockbroker for L.F. Rothschild, employed under Mark Hanna. He is quickly enticed by the drug-fueled stockbroker culture and Hanna's belief that a broker's only goal is to make money for himself. Jordan loses his job following Black Monday, the largest one-day stock market drop in history after the 1929 stock market crash, and takes a job at Investor's Center, a boiler room brokerage firm on Long Island that specializes in penny stocks. He makes a small fortune thanks to his aggressive pitching style and high commissions.\n\nJordan befriends his neighbor Donnie Azoff, and the two start their own boiler room-styled brokerage company. They recruit Jordan's childhood friends Robbie Feinberg, Alden Kupferburg, Nicky Koskoff, Chester Ming, and Toby Welch, as well as local drug pusher Brad Bonick, all of whom Jordan trains in the art of the \"hard sell,\" and set up the company in an abandoned auto repair shop. Jordan's tactics and salesmanship largely contribute to the success of his pump and dump scheme, in which misleading, positive statements inflate a stock's price so it can be sold at an artificially high price. When the scheme's perpetrators sell their overvalued securities, the price plummets, and those who were conned into buying at the inflated price are left with stock that is suddenly worth much less than they paid for it. To cloak this, Jordan gives the firm the respectable-sounding name of Stratton Oakmont in 1989."
     },
     {
@@ -3510,9 +3284,7 @@
       "release_year": 1994,
       "poster": "https://m.media-amazon.com/images/I/61P-HNp5QsL._AC_UF894,1000_QL80_.jpg",
       "trailer": "https://www.youtube.com/watch?v=jawVxq1Iyl0",
-      "directors": [
-        "Luc Besson"
-      ],
+      "directors": ["Luc Besson"],
       "actors": [
         "Gary Oldman",
         "Jean Reno",
@@ -3520,10 +3292,7 @@
         "Danny Aiello",
         "Michael Badalucco"
       ],
-      "studios": [
-        "Gaumont",
-        "Columbia Pictures"
-      ],
+      "studios": ["Gaumont", "Columbia Pictures"],
       "storyline": "Léon is an Italian-American hitman (or \"cleaner\", as he refers to himself) working for a mafioso named \"Old Tony\" in the Little Italy neighborhood of New York City. One day, Léon meets Mathilda Lando, a lonely twelve-year-old who lives with her dysfunctional family in an apartment down the hall from Léon, and has stopped attending class at her school for troubled girls.\n\nMathilda's abusive father attracts the ire of corrupt DEA agents, who have been paying him to stash cocaine in his apartment. After they discover that he has been stealing from their stash, DEA agents invade the apartment, led by their boss, drug-addict Norman Stansfield. During their search for the missing drugs, Stansfield murders Mathilda's family while she is out shopping for groceries. When she returns, Mathilda realizes what has happened just in time to continue down the hall to Léon's apartment; he hesitantly gives her shelter.\n\nMathilda quickly discovers that Léon is a hitman. She begs him to take care of her and to teach her his skills, as she wants to avenge the murder of her four-year-old brother. At first, Léon is unsettled by her presence and considers killing her in her sleep but he eventually trains Mathilda and shows her how to use various weapons. In exchange, she runs his errands, cleans his apartment and teaches him how to read. Mathilda looks up to Léon and quickly develops a crush on him, often telling him she loves him but he does not reciprocate."
     },
     {
@@ -3533,9 +3302,7 @@
       "release_year": 2002,
       "poster": "https://i.ebayimg.com/images/g/Yl0AAOSwZ8ZW9AuW/s-l1600.jpg",
       "trailer": "https://www.youtube.com/watch?v=s-7pyIxz8Qg",
-      "directors": [
-        "Steven Spielberg"
-      ],
+      "directors": ["Steven Spielberg"],
       "actors": [
         "Leonardo DiCaprio",
         "Tom Hanks",
@@ -3543,9 +3310,7 @@
         "Martin Sheen",
         "Amy Adams"
       ],
-      "studios": [
-        "DreamWorks Pictures"
-      ],
+      "studios": ["DreamWorks Pictures"],
       "storyline": "In 1969, FBI agent Carl Hanratty arrives in Marseille, France, to pick up a prisoner named Frank Abagnale Jr., who has fallen ill due to the prison's poor conditions.\n\nSix years ago, Frank lived in New Rochelle, New York, with his father, Frank Sr., and his French mother, Paula. During his youth, he witnesses his father's many techniques for conning people, but Frank Sr.'s tax problems with the IRS eventually force the family to move from their house and into a small apartment.\n\nOne day, Frank discovers his mother is having an affair with Jack Barnes, his father's friend from the New Rochelle Rotary Club. When his parents divorce, Frank runs away. Needing money, he turns to confidence scams to survive, his cons progressively growing bolder. He poses as a Pan Am pilot named Frank Taylor and forges the airline's payroll checks. Soon, his forgeries are worth millions of dollars.\n\nNews of the crimes reaches the FBI and Carl begins tracking Frank. He finds him at a motel, but Frank tricks Carl into believing he is a Secret Service agent named Barry Allen. He escapes before Carl realizes he was fooled.\n\nFrank then begins to impersonate a doctor. As Dr. Frank Conners, he falls in love with Brenda, a naive young hospital nurse, and asks her attorney father for both her hand in marriage and help with arrangements to take the Louisiana State Bar exam, which Frank passes. Carl tracks Frank to his and Brenda's engagement party, but Frank escapes through a bedroom window, telling Brenda to meet him at Miami International Airport two days later."
     }
   ],
@@ -3838,5 +3603,81 @@
       "logo": "https://i.ytimg.com/vi/K3MJsdDTapQ/maxresdefault.jpg",
       "about": "Constantin Film AG is a German mini-major film production and distribution company based in Munich. The company, which belongs to Swiss media conglomerate Highlight Communications AG, is a large independent German maker and distributor of productions in the entire field of audio-visual fiction and non-fiction. Company activity is based on the five pillars of film production/procurement of rights, TV production, film distribution, home entertainment, and licence trading/TV exploitation.\n\nConstantin has released 36 of the 100 most successful German films of the last 20 years, including four of the top five: Manitou's Shoe (11.7 million viewers), Traumschiff Surprise – Periode 1 (9 million), Fack ju Göhte (7.3 million) and Fack ju Göhte 2 (7.7 million). The Fack ju Göhte trilogy was concluded in 2017 with Fack ju Göhte 3 (6 million) and is now the most successful German film series of all time.\n\nInternationally, Constantin Film is best known for the successful Resident Evil film franchise, which has earned US$1.2 billion worldwide to date and is also known as the highest-grossing film series based on a video game. More recently, TV series include Shadowhunters, which won four People's Choice Awards in 2018, and the live-action Resident Evil television series. Constantin has also been involved in 20th Century Fox's Fantastic Four film franchise. Other productions include bestseller adaptation The Silence and video game adaptation Monster Hunter."
     }
+  ],
+  "genres": [
+    { "id": 1, "title": "Action" },
+    { "id": 2, "title": "Adventure" },
+    { "id": 3, "title": "Anime" },
+    { "id": 4, "title": "Biopic" },
+    { "id": 5, "title": "Comedy" },
+    { "id": 6, "title": "Crime film" },
+    { "id": 7, "title": "Documentary" },
+    { "id": 8, "title": "Drama" },
+    { "id": 9, "title": "Fantasy" },
+    { "id": 10, "title": "Historic" },
+    { "id": 11, "title": "Horror" },
+    { "id": 12, "title": "Melodrama" },
+    { "id": 13, "title": "Music" },
+    { "id": 14, "title": "Peplum" },
+    { "id": 15, "title": "Science fiction" },
+    { "id": 16, "title": "Serial" },
+    { "id": 17, "title": "Sequel" },
+    { "id": 18, "title": "Thriller" },
+    { "id": 19, "title": "Western" }
+  ],
+  "countries": [
+    { "id": 1, "title": "United States of America" },
+    { "id": 2, "title": "Great Britain (England)" },
+    { "id": 3, "title": "Ukraine" },
+    { "id": 4, "title": "Deutschland" },
+    { "id": 5, "title": "France" },
+    { "id": 6, "title": "Australia" },
+    { "id": 7, "title": "Belgium" },
+    { "id": 8, "title": "Brazil" },
+    { "id": 9, "title": "Georgia" },
+    { "id": 10, "title": "Denmark" },
+    { "id": 11, "title": "Israel" },
+    { "id": 12, "title": "India" },
+    { "id": 13, "title": "Ireland" },
+    { "id": 14, "title": "Italy" },
+    { "id": 15, "title": "Canada" },
+    { "id": 16, "title": "China" },
+    { "id": 17, "title": "Korea" },
+    { "id": 18, "title": "Latvia" },
+    { "id": 19, "title": "Lithuania" },
+    { "id": 20, "title": "Netherlands" },
+    { "id": 21, "title": "Norway" },
+    { "id": 22, "title": "Poland" },
+    { "id": 23, "title": "Portugal" },
+    { "id": 24, "title": "Turkey" },
+    { "id": 25, "title": "Finland" },
+    { "id": 26, "title": "Czech Republic" },
+    { "id": 27, "title": "Switzerland" },
+    { "id": 28, "title": "Estonia" },
+    { "id": 29, "title": "Japan" },
+    { "id": 30, "title": "New Zealand" },
+    { "id": 31, "title": "Puerto Rico" },
+    { "id": 32, "title": "Malta" },
+    { "id": 33, "title": "Benin" },
+    { "id": 34, "title": "Sweden" },
+    { "id": 35, "title": "Russian" },
+    { "id": 36, "title": "Iceland" },
+    { "id": 37, "title": "Austria" },
+    { "id": 38, "title": "Spain" },
+    { "id": 39, "title": "Mexico" }
+  ],
+  "locations": [
+    { "id": 1, "title": "San Francisco" },
+    { "id": 2, "title": "Los Angeles" },
+    { "id": 3, "title": "Culver City" },
+    { "id": 4, "title": "Universal City" },
+    { "id": 5, "title": "London" },
+    { "id": 6, "title": "Burbank" },
+    { "id": 7, "title": "Toronto" },
+    { "id": 8, "title": "California" },
+    { "id": 9, "title": "New York" },
+    { "id": 10, "title": "Sydney" },
+    { "id": 11, "title": "Paris" },
+    { "id": 12, "title": "Munchen" }
   ]
 }
