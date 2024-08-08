@@ -3607,287 +3607,357 @@
   "genres": [
     {
       "id": 1,
-      "title": "Action"
+      "title": "Action",
+      "logo": ""
     },
     {
       "id": 2,
-      "title": "Adventure"
+      "title": "Adventure",
+      "logo": ""
     },
     {
       "id": 3,
-      "title": "Anime"
+      "title": "Anime",
+      "logo": ""
     },
     {
       "id": 4,
-      "title": "Biopic"
+      "title": "Biopic",
+      "logo": ""
     },
     {
       "id": 5,
-      "title": "Comedy"
+      "title": "Comedy",
+      "logo": ""
     },
     {
       "id": 6,
-      "title": "Crime film"
+      "title": "Crime film",
+      "logo": ""
     },
     {
       "id": 7,
-      "title": "Documentary"
+      "title": "Documentary",
+      "logo": ""
     },
     {
       "id": 8,
-      "title": "Drama"
+      "title": "Drama",
+      "logo": ""
     },
     {
       "id": 9,
-      "title": "Fantasy"
+      "title": "Fantasy",
+      "logo": ""
     },
     {
       "id": 10,
-      "title": "Historic"
+      "title": "Historic",
+      "logo": ""
     },
     {
       "id": 11,
-      "title": "Horror"
+      "title": "Horror",
+      "logo": ""
     },
     {
       "id": 12,
-      "title": "Melodrama"
+      "title": "Melodrama",
+      "logo": ""
     },
     {
       "id": 13,
-      "title": "Music"
+      "title": "Music",
+      "logo": ""
     },
     {
       "id": 14,
-      "title": "Peplum"
+      "title": "Peplum",
+      "logo": ""
     },
     {
       "id": 15,
-      "title": "Science fiction"
+      "title": "Science fiction",
+      "logo": ""
     },
     {
       "id": 16,
-      "title": "Serial"
+      "title": "Serial",
+      "logo": ""
     },
     {
       "id": 17,
-      "title": "Sequel"
+      "title": "Sequel",
+      "logo": ""
     },
     {
       "id": 18,
-      "title": "Thriller"
+      "title": "Thriller",
+      "logo": ""
     },
     {
       "id": 19,
-      "title": "Western"
+      "title": "Western",
+      "logo": ""
     }
   ],
   "countries": [
     {
       "id": 1,
-      "title": "United States of America"
+      "title": "United States of America",
+      "logo": ""
     },
     {
       "id": 2,
-      "title": "Great Britain (England)"
+      "title": "Great Britain (England)",
+      "logo": ""
     },
     {
       "id": 3,
-      "title": "Ukraine"
+      "title": "Ukraine",
+      "logo": ""
     },
     {
       "id": 4,
-      "title": "Deutschland"
+      "title": "Deutschland",
+      "logo": ""
     },
     {
       "id": 5,
-      "title": "France"
+      "title": "France",
+      "logo": ""
     },
     {
       "id": 6,
-      "title": "Australia"
+      "title": "Australia",
+      "logo": ""
     },
     {
       "id": 7,
-      "title": "Belgium"
+      "title": "Belgium",
+      "logo": ""
     },
     {
       "id": 8,
-      "title": "Brazil"
+      "title": "Brazil",
+      "logo": ""
     },
     {
       "id": 9,
-      "title": "Georgia"
+      "title": "Georgia",
+      "logo": ""
     },
     {
       "id": 10,
-      "title": "Denmark"
+      "title": "Denmark",
+      "logo": ""
     },
     {
       "id": 11,
-      "title": "Israel"
+      "title": "Israel",
+      "logo": ""
     },
     {
       "id": 12,
-      "title": "India"
+      "title": "India",
+      "logo": ""
     },
     {
       "id": 13,
-      "title": "Ireland"
+      "title": "Ireland",
+      "logo": ""
     },
     {
       "id": 14,
-      "title": "Italy"
+      "title": "Italy",
+      "logo": ""
     },
     {
       "id": 15,
-      "title": "Canada"
+      "title": "Canada",
+      "logo": ""
     },
     {
       "id": 16,
-      "title": "China"
+      "title": "China",
+      "logo": ""
     },
     {
       "id": 17,
-      "title": "Korea"
+      "title": "Korea",
+      "logo": ""
     },
     {
       "id": 18,
-      "title": "Latvia"
+      "title": "Latvia",
+      "logo": ""
     },
     {
       "id": 19,
-      "title": "Lithuania"
+      "title": "Lithuania",
+      "logo": ""
     },
     {
       "id": 20,
-      "title": "Netherlands"
+      "title": "Netherlands",
+      "logo": ""
     },
     {
       "id": 21,
-      "title": "Norway"
+      "title": "Norway",
+      "logo": ""
     },
     {
       "id": 22,
-      "title": "Poland"
+      "title": "Poland",
+      "logo": ""
     },
     {
       "id": 23,
-      "title": "Portugal"
+      "title": "Portugal",
+      "logo": ""
     },
     {
       "id": 24,
-      "title": "Turkey"
+      "title": "Turkey",
+      "logo": ""
     },
     {
       "id": 25,
-      "title": "Finland"
+      "title": "Finland",
+      "logo": ""
     },
     {
       "id": 26,
-      "title": "Czech Republic"
+      "title": "Czech Republic",
+      "logo": ""
     },
     {
       "id": 27,
-      "title": "Switzerland"
+      "title": "Switzerland",
+      "logo": ""
     },
     {
       "id": 28,
-      "title": "Estonia"
+      "title": "Estonia",
+      "logo": ""
     },
     {
       "id": 29,
-      "title": "Japan"
+      "title": "Japan",
+      "logo": ""
     },
     {
       "id": 30,
-      "title": "New Zealand"
+      "title": "New Zealand",
+      "logo": ""
     },
     {
       "id": 31,
-      "title": "Puerto Rico"
+      "title": "Puerto Rico",
+      "logo": ""
     },
     {
       "id": 32,
-      "title": "Malta"
+      "title": "Malta",
+      "logo": ""
     },
     {
       "id": 33,
-      "title": "Benin"
+      "title": "Benin",
+      "logo": ""
     },
     {
       "id": 34,
-      "title": "Sweden"
+      "title": "Sweden",
+      "logo": ""
     },
     {
       "id": 35,
-      "title": "Russian"
+      "title": "Russian",
+      "logo": ""
     },
     {
       "id": 36,
-      "title": "Iceland"
+      "title": "Iceland",
+      "logo": ""
     },
     {
       "id": 37,
-      "title": "Austria"
+      "title": "Austria",
+      "logo": ""
     },
     {
       "id": 38,
-      "title": "Spain"
+      "title": "Spain",
+      "logo": ""
     },
     {
       "id": 39,
-      "title": "Mexico"
+      "title": "Mexico",
+      "logo": ""
     }
   ],
   "locations": [
     {
       "id": 1,
-      "title": "San Francisco"
+      "title": "San Francisco",
+      "logo": ""
     },
     {
       "id": 2,
-      "title": "Los Angeles"
+      "title": "Los Angeles",
+      "logo": ""
     },
     {
       "id": 3,
-      "title": "Culver City"
+      "title": "Culver City",
+      "logo": ""
     },
     {
       "id": 4,
-      "title": "Universal City"
+      "title": "Universal City",
+      "logo": ""
     },
     {
       "id": 5,
-      "title": "London"
+      "title": "London",
+      "logo": ""
     },
     {
       "id": 6,
-      "title": "Burbank"
+      "title": "Burbank",
+      "logo": ""
     },
     {
       "id": 7,
-      "title": "Toronto"
+      "title": "Toronto",
+      "logo": ""
     },
     {
       "id": 8,
-      "title": "California"
+      "title": "California",
+      "logo": ""
     },
     {
       "id": 9,
-      "title": "New York"
+      "title": "New York",
+      "logo": ""
     },
     {
       "id": 10,
-      "title": "Sydney"
+      "title": "Sydney",
+      "logo": ""
     },
     {
       "id": 11,
-      "title": "Paris"
+      "title": "Paris",
+      "logo": ""
     },
     {
       "id": 12,
-      "title": "Munchen"
+      "title": "Munchen",
+      "logo": ""
     }
   ]
 }
