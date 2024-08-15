@@ -1,13 +1,15 @@
 {
   "name": "json-server",
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./index.js"
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alexandr Sytnikov",
   "license": "ISC",
   "description": "",
   "dependencies": {
