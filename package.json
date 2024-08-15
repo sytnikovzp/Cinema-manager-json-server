@@ -9,9 +9,9 @@
     "nodemon": "nodemon ./index.js"
   },
   "keywords": [],
-  "author": "Alexandr Sytnikov",
+  "description": "> TODO: description",
+  "author": "Alexandr Sytnikov <sytnikov.zp@gmail.com>",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "chokidar": "^3.6.0",
     "cors": "^2.8.5",
