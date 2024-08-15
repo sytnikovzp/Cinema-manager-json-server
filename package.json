@@ -5,8 +5,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "fake": "node ./index.js",
-    "dev": "nodemon ./index.js"
+    "fake": "node ./index.js"
   },
   "keywords": [],
   "author": "Alexandr Sytnikov",
